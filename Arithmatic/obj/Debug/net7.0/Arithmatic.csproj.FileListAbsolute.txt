@@ -1,0 +1,14 @@
+C:\Users\KIIT\Desktop\Wipro Code\Arithmatic\obj\Debug\net7.0\Arithmatic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\Desktop\Wipro Code\Arithmatic\obj\Debug\net7.0\Arithmatic.AssemblyInfoInputs.cache
+C:\Users\KIIT\Desktop\Wipro Code\Arithmatic\obj\Debug\net7.0\Arithmatic.AssemblyInfo.cs
+C:\Users\KIIT\Desktop\Wipro Code\Arithmatic\obj\Debug\net7.0\Arithmatic.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Desktop\Wipro Code\Arithmatic\bin\Debug\net7.0\Arithmatic.exe
+C:\Users\KIIT\Desktop\Wipro Code\Arithmatic\bin\Debug\net7.0\Arithmatic.deps.json
+C:\Users\KIIT\Desktop\Wipro Code\Arithmatic\bin\Debug\net7.0\Arithmatic.runtimeconfig.json
+C:\Users\KIIT\Desktop\Wipro Code\Arithmatic\bin\Debug\net7.0\Arithmatic.dll
+C:\Users\KIIT\Desktop\Wipro Code\Arithmatic\bin\Debug\net7.0\Arithmatic.pdb
+C:\Users\KIIT\Desktop\Wipro Code\Arithmatic\obj\Debug\net7.0\Arithmatic.dll
+C:\Users\KIIT\Desktop\Wipro Code\Arithmatic\obj\Debug\net7.0\refint\Arithmatic.dll
+C:\Users\KIIT\Desktop\Wipro Code\Arithmatic\obj\Debug\net7.0\Arithmatic.pdb
+C:\Users\KIIT\Desktop\Wipro Code\Arithmatic\obj\Debug\net7.0\Arithmatic.genruntimeconfig.cache
+C:\Users\KIIT\Desktop\Wipro Code\Arithmatic\obj\Debug\net7.0\ref\Arithmatic.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "jaggedArray/1.0.0": {
+        "runtime": {
+          "jaggedArray.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "jaggedArray/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

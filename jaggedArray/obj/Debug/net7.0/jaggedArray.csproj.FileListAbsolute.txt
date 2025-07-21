@@ -1,0 +1,14 @@
+C:\Users\KIIT\Desktop\Wipro Code\jaggedArray\obj\Debug\net7.0\jaggedArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\Desktop\Wipro Code\jaggedArray\obj\Debug\net7.0\jaggedArray.AssemblyInfoInputs.cache
+C:\Users\KIIT\Desktop\Wipro Code\jaggedArray\obj\Debug\net7.0\jaggedArray.AssemblyInfo.cs
+C:\Users\KIIT\Desktop\Wipro Code\jaggedArray\obj\Debug\net7.0\jaggedArray.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Desktop\Wipro Code\jaggedArray\bin\Debug\net7.0\jaggedArray.exe
+C:\Users\KIIT\Desktop\Wipro Code\jaggedArray\bin\Debug\net7.0\jaggedArray.deps.json
+C:\Users\KIIT\Desktop\Wipro Code\jaggedArray\bin\Debug\net7.0\jaggedArray.runtimeconfig.json
+C:\Users\KIIT\Desktop\Wipro Code\jaggedArray\bin\Debug\net7.0\jaggedArray.dll
+C:\Users\KIIT\Desktop\Wipro Code\jaggedArray\bin\Debug\net7.0\jaggedArray.pdb
+C:\Users\KIIT\Desktop\Wipro Code\jaggedArray\obj\Debug\net7.0\jaggedArray.dll
+C:\Users\KIIT\Desktop\Wipro Code\jaggedArray\obj\Debug\net7.0\refint\jaggedArray.dll
+C:\Users\KIIT\Desktop\Wipro Code\jaggedArray\obj\Debug\net7.0\jaggedArray.pdb
+C:\Users\KIIT\Desktop\Wipro Code\jaggedArray\obj\Debug\net7.0\jaggedArray.genruntimeconfig.cache
+C:\Users\KIIT\Desktop\Wipro Code\jaggedArray\obj\Debug\net7.0\ref\jaggedArray.dll

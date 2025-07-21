@@ -1,0 +1,14 @@
+C:\Users\KIIT\Desktop\Wipro Code\MySecondApp\MySecondApp\bin\Debug\net8.0\MySecondApp.exe
+C:\Users\KIIT\Desktop\Wipro Code\MySecondApp\MySecondApp\bin\Debug\net8.0\MySecondApp.deps.json
+C:\Users\KIIT\Desktop\Wipro Code\MySecondApp\MySecondApp\bin\Debug\net8.0\MySecondApp.runtimeconfig.json
+C:\Users\KIIT\Desktop\Wipro Code\MySecondApp\MySecondApp\bin\Debug\net8.0\MySecondApp.dll
+C:\Users\KIIT\Desktop\Wipro Code\MySecondApp\MySecondApp\bin\Debug\net8.0\MySecondApp.pdb
+C:\Users\KIIT\Desktop\Wipro Code\MySecondApp\MySecondApp\obj\Debug\net8.0\MySecondApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\Desktop\Wipro Code\MySecondApp\MySecondApp\obj\Debug\net8.0\MySecondApp.AssemblyInfoInputs.cache
+C:\Users\KIIT\Desktop\Wipro Code\MySecondApp\MySecondApp\obj\Debug\net8.0\MySecondApp.AssemblyInfo.cs
+C:\Users\KIIT\Desktop\Wipro Code\MySecondApp\MySecondApp\obj\Debug\net8.0\MySecondApp.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Desktop\Wipro Code\MySecondApp\MySecondApp\obj\Debug\net8.0\MySecondApp.dll
+C:\Users\KIIT\Desktop\Wipro Code\MySecondApp\MySecondApp\obj\Debug\net8.0\refint\MySecondApp.dll
+C:\Users\KIIT\Desktop\Wipro Code\MySecondApp\MySecondApp\obj\Debug\net8.0\MySecondApp.pdb
+C:\Users\KIIT\Desktop\Wipro Code\MySecondApp\MySecondApp\obj\Debug\net8.0\MySecondApp.genruntimeconfig.cache
+C:\Users\KIIT\Desktop\Wipro Code\MySecondApp\MySecondApp\obj\Debug\net8.0\ref\MySecondApp.dll
