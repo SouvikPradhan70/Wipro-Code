@@ -1,0 +1,15 @@
+C:\Users\KIIT\Desktop\Wipro Code\productInventory\productInventory\bin\Debug\net8.0\productInventory.exe
+C:\Users\KIIT\Desktop\Wipro Code\productInventory\productInventory\bin\Debug\net8.0\productInventory.deps.json
+C:\Users\KIIT\Desktop\Wipro Code\productInventory\productInventory\bin\Debug\net8.0\productInventory.runtimeconfig.json
+C:\Users\KIIT\Desktop\Wipro Code\productInventory\productInventory\bin\Debug\net8.0\productInventory.dll
+C:\Users\KIIT\Desktop\Wipro Code\productInventory\productInventory\bin\Debug\net8.0\productInventory.pdb
+C:\Users\KIIT\Desktop\Wipro Code\productInventory\productInventory\obj\Debug\net8.0\productInventory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\Desktop\Wipro Code\productInventory\productInventory\obj\Debug\net8.0\productInventory.AssemblyInfoInputs.cache
+C:\Users\KIIT\Desktop\Wipro Code\productInventory\productInventory\obj\Debug\net8.0\productInventory.AssemblyInfo.cs
+C:\Users\KIIT\Desktop\Wipro Code\productInventory\productInventory\obj\Debug\net8.0\productInventory.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Desktop\Wipro Code\productInventory\productInventory\obj\Debug\net8.0\productInventory.sourcelink.json
+C:\Users\KIIT\Desktop\Wipro Code\productInventory\productInventory\obj\Debug\net8.0\productInventory.dll
+C:\Users\KIIT\Desktop\Wipro Code\productInventory\productInventory\obj\Debug\net8.0\refint\productInventory.dll
+C:\Users\KIIT\Desktop\Wipro Code\productInventory\productInventory\obj\Debug\net8.0\productInventory.pdb
+C:\Users\KIIT\Desktop\Wipro Code\productInventory\productInventory\obj\Debug\net8.0\productInventory.genruntimeconfig.cache
+C:\Users\KIIT\Desktop\Wipro Code\productInventory\productInventory\obj\Debug\net8.0\ref\productInventory.dll

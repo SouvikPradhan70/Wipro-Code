@@ -1,0 +1,15 @@
+C:\Users\KIIT\Desktop\Wipro Code\Abstract,Interface,Exception\Abstract,Interface,Exception\bin\Debug\net8.0\Abstract,Interface,Exception.exe
+C:\Users\KIIT\Desktop\Wipro Code\Abstract,Interface,Exception\Abstract,Interface,Exception\bin\Debug\net8.0\Abstract,Interface,Exception.deps.json
+C:\Users\KIIT\Desktop\Wipro Code\Abstract,Interface,Exception\Abstract,Interface,Exception\bin\Debug\net8.0\Abstract,Interface,Exception.runtimeconfig.json
+C:\Users\KIIT\Desktop\Wipro Code\Abstract,Interface,Exception\Abstract,Interface,Exception\bin\Debug\net8.0\Abstract,Interface,Exception.dll
+C:\Users\KIIT\Desktop\Wipro Code\Abstract,Interface,Exception\Abstract,Interface,Exception\bin\Debug\net8.0\Abstract,Interface,Exception.pdb
+C:\Users\KIIT\Desktop\Wipro Code\Abstract,Interface,Exception\Abstract,Interface,Exception\obj\Debug\net8.0\Abstract,Interface,Exception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\Desktop\Wipro Code\Abstract,Interface,Exception\Abstract,Interface,Exception\obj\Debug\net8.0\Abstract,Interface,Exception.AssemblyInfoInputs.cache
+C:\Users\KIIT\Desktop\Wipro Code\Abstract,Interface,Exception\Abstract,Interface,Exception\obj\Debug\net8.0\Abstract,Interface,Exception.AssemblyInfo.cs
+C:\Users\KIIT\Desktop\Wipro Code\Abstract,Interface,Exception\Abstract,Interface,Exception\obj\Debug\net8.0\Abstract,Interface,Exception.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Desktop\Wipro Code\Abstract,Interface,Exception\Abstract,Interface,Exception\obj\Debug\net8.0\Abstract,Interface,Exception.sourcelink.json
+C:\Users\KIIT\Desktop\Wipro Code\Abstract,Interface,Exception\Abstract,Interface,Exception\obj\Debug\net8.0\Abstract,Interface,Exception.dll
+C:\Users\KIIT\Desktop\Wipro Code\Abstract,Interface,Exception\Abstract,Interface,Exception\obj\Debug\net8.0\refint\Abstract,Interface,Exception.dll
+C:\Users\KIIT\Desktop\Wipro Code\Abstract,Interface,Exception\Abstract,Interface,Exception\obj\Debug\net8.0\Abstract,Interface,Exception.pdb
+C:\Users\KIIT\Desktop\Wipro Code\Abstract,Interface,Exception\Abstract,Interface,Exception\obj\Debug\net8.0\Abstract,Interface,Exception.genruntimeconfig.cache
+C:\Users\KIIT\Desktop\Wipro Code\Abstract,Interface,Exception\Abstract,Interface,Exception\obj\Debug\net8.0\ref\Abstract,Interface,Exception.dll

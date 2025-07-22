@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KIIT\\Desktop\\Wipro Code\\Banking\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D21C6EB-FD71-4267-92E0-7453B3BE77EC}|Banking\\Banking.csproj|c:\\users\\kiit\\desktop\\wipro code\\banking\\banking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D21C6EB-FD71-4267-92E0-7453B3BE77EC}|Banking\\Banking.csproj|solutionrelative:banking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D21C6EB-FD71-4267-92E0-7453B3BE77EC}|Banking\\Banking.csproj|c:\\users\\kiit\\desktop\\wipro code\\banking\\banking\\myexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D21C6EB-FD71-4267-92E0-7453B3BE77EC}|Banking\\Banking.csproj|solutionrelative:banking\\myexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyException.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\Wipro Code\\Banking\\Banking\\MyException.cs",
+              "RelativeDocumentMoniker": "Banking\\MyException.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\Wipro Code\\Banking\\Banking\\MyException.cs",
+              "RelativeToolTip": "Banking\\MyException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T09:54:08.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\Wipro Code\\Banking\\Banking\\Program.cs",
+              "RelativeDocumentMoniker": "Banking\\Program.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\Wipro Code\\Banking\\Banking\\Program.cs",
+              "RelativeToolTip": "Banking\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA1wDAAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T09:50:17.718Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
