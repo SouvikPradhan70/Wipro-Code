@@ -1,0 +1,15 @@
+C:\Users\KIIT\Desktop\Wipro Code\Deligates\Deligates\bin\Debug\net8.0\Deligates.exe
+C:\Users\KIIT\Desktop\Wipro Code\Deligates\Deligates\bin\Debug\net8.0\Deligates.deps.json
+C:\Users\KIIT\Desktop\Wipro Code\Deligates\Deligates\bin\Debug\net8.0\Deligates.runtimeconfig.json
+C:\Users\KIIT\Desktop\Wipro Code\Deligates\Deligates\bin\Debug\net8.0\Deligates.dll
+C:\Users\KIIT\Desktop\Wipro Code\Deligates\Deligates\bin\Debug\net8.0\Deligates.pdb
+C:\Users\KIIT\Desktop\Wipro Code\Deligates\Deligates\obj\Debug\net8.0\Deligates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\Desktop\Wipro Code\Deligates\Deligates\obj\Debug\net8.0\Deligates.AssemblyInfoInputs.cache
+C:\Users\KIIT\Desktop\Wipro Code\Deligates\Deligates\obj\Debug\net8.0\Deligates.AssemblyInfo.cs
+C:\Users\KIIT\Desktop\Wipro Code\Deligates\Deligates\obj\Debug\net8.0\Deligates.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Desktop\Wipro Code\Deligates\Deligates\obj\Debug\net8.0\Deligates.sourcelink.json
+C:\Users\KIIT\Desktop\Wipro Code\Deligates\Deligates\obj\Debug\net8.0\Deligates.dll
+C:\Users\KIIT\Desktop\Wipro Code\Deligates\Deligates\obj\Debug\net8.0\refint\Deligates.dll
+C:\Users\KIIT\Desktop\Wipro Code\Deligates\Deligates\obj\Debug\net8.0\Deligates.pdb
+C:\Users\KIIT\Desktop\Wipro Code\Deligates\Deligates\obj\Debug\net8.0\Deligates.genruntimeconfig.cache
+C:\Users\KIIT\Desktop\Wipro Code\Deligates\Deligates\obj\Debug\net8.0\ref\Deligates.dll
