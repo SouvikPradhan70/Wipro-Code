@@ -25,7 +25,7 @@ namespace FileHandling2
 
 
         }
-        //efining a class variable of type collection to hold emloyees
+        //defining a class variable of type collection to hold emloyees
         public static List<Employee> Employees = new List<Employee>();
         string filePath = "employees.txt";
 

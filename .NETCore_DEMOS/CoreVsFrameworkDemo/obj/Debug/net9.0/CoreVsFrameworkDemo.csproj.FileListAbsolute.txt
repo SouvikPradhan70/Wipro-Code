@@ -1,0 +1,15 @@
+C:\Users\KIIT\Desktop\Wipro Code\.NETCore_DEMOS\CoreVsFrameworkDemo\obj\Debug\net9.0\CoreVsFrameworkDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\Desktop\Wipro Code\.NETCore_DEMOS\CoreVsFrameworkDemo\obj\Debug\net9.0\CoreVsFrameworkDemo.AssemblyInfoInputs.cache
+C:\Users\KIIT\Desktop\Wipro Code\.NETCore_DEMOS\CoreVsFrameworkDemo\obj\Debug\net9.0\CoreVsFrameworkDemo.AssemblyInfo.cs
+C:\Users\KIIT\Desktop\Wipro Code\.NETCore_DEMOS\CoreVsFrameworkDemo\obj\Debug\net9.0\CoreVsFrameworkDemo.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Desktop\Wipro Code\.NETCore_DEMOS\CoreVsFrameworkDemo\obj\Debug\net9.0\CoreVsFrameworkDemo.sourcelink.json
+C:\Users\KIIT\Desktop\Wipro Code\.NETCore_DEMOS\CoreVsFrameworkDemo\bin\Debug\net9.0\CoreVsFrameworkDemo.exe
+C:\Users\KIIT\Desktop\Wipro Code\.NETCore_DEMOS\CoreVsFrameworkDemo\bin\Debug\net9.0\CoreVsFrameworkDemo.deps.json
+C:\Users\KIIT\Desktop\Wipro Code\.NETCore_DEMOS\CoreVsFrameworkDemo\bin\Debug\net9.0\CoreVsFrameworkDemo.runtimeconfig.json
+C:\Users\KIIT\Desktop\Wipro Code\.NETCore_DEMOS\CoreVsFrameworkDemo\bin\Debug\net9.0\CoreVsFrameworkDemo.dll
+C:\Users\KIIT\Desktop\Wipro Code\.NETCore_DEMOS\CoreVsFrameworkDemo\bin\Debug\net9.0\CoreVsFrameworkDemo.pdb
+C:\Users\KIIT\Desktop\Wipro Code\.NETCore_DEMOS\CoreVsFrameworkDemo\obj\Debug\net9.0\CoreVsFrameworkDemo.dll
+C:\Users\KIIT\Desktop\Wipro Code\.NETCore_DEMOS\CoreVsFrameworkDemo\obj\Debug\net9.0\refint\CoreVsFrameworkDemo.dll
+C:\Users\KIIT\Desktop\Wipro Code\.NETCore_DEMOS\CoreVsFrameworkDemo\obj\Debug\net9.0\CoreVsFrameworkDemo.pdb
+C:\Users\KIIT\Desktop\Wipro Code\.NETCore_DEMOS\CoreVsFrameworkDemo\obj\Debug\net9.0\CoreVsFrameworkDemo.genruntimeconfig.cache
+C:\Users\KIIT\Desktop\Wipro Code\.NETCore_DEMOS\CoreVsFrameworkDemo\obj\Debug\net9.0\ref\CoreVsFrameworkDemo.dll

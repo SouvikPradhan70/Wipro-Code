@@ -1,0 +1,15 @@
+C:\Users\KIIT\Desktop\Wipro Code\.NETCore_DEMOS\MyFirstConsoleApp\bin\Debug\net9.0\MyFirstConsoleApp.exe
+C:\Users\KIIT\Desktop\Wipro Code\.NETCore_DEMOS\MyFirstConsoleApp\bin\Debug\net9.0\MyFirstConsoleApp.deps.json
+C:\Users\KIIT\Desktop\Wipro Code\.NETCore_DEMOS\MyFirstConsoleApp\bin\Debug\net9.0\MyFirstConsoleApp.runtimeconfig.json
+C:\Users\KIIT\Desktop\Wipro Code\.NETCore_DEMOS\MyFirstConsoleApp\bin\Debug\net9.0\MyFirstConsoleApp.dll
+C:\Users\KIIT\Desktop\Wipro Code\.NETCore_DEMOS\MyFirstConsoleApp\bin\Debug\net9.0\MyFirstConsoleApp.pdb
+C:\Users\KIIT\Desktop\Wipro Code\.NETCore_DEMOS\MyFirstConsoleApp\obj\Debug\net9.0\MyFirstConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\Desktop\Wipro Code\.NETCore_DEMOS\MyFirstConsoleApp\obj\Debug\net9.0\MyFirstConsoleApp.AssemblyInfoInputs.cache
+C:\Users\KIIT\Desktop\Wipro Code\.NETCore_DEMOS\MyFirstConsoleApp\obj\Debug\net9.0\MyFirstConsoleApp.AssemblyInfo.cs
+C:\Users\KIIT\Desktop\Wipro Code\.NETCore_DEMOS\MyFirstConsoleApp\obj\Debug\net9.0\MyFirstConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Desktop\Wipro Code\.NETCore_DEMOS\MyFirstConsoleApp\obj\Debug\net9.0\MyFirstConsoleApp.sourcelink.json
+C:\Users\KIIT\Desktop\Wipro Code\.NETCore_DEMOS\MyFirstConsoleApp\obj\Debug\net9.0\MyFirstConsoleApp.dll
+C:\Users\KIIT\Desktop\Wipro Code\.NETCore_DEMOS\MyFirstConsoleApp\obj\Debug\net9.0\refint\MyFirstConsoleApp.dll
+C:\Users\KIIT\Desktop\Wipro Code\.NETCore_DEMOS\MyFirstConsoleApp\obj\Debug\net9.0\MyFirstConsoleApp.pdb
+C:\Users\KIIT\Desktop\Wipro Code\.NETCore_DEMOS\MyFirstConsoleApp\obj\Debug\net9.0\MyFirstConsoleApp.genruntimeconfig.cache
+C:\Users\KIIT\Desktop\Wipro Code\.NETCore_DEMOS\MyFirstConsoleApp\obj\Debug\net9.0\ref\MyFirstConsoleApp.dll

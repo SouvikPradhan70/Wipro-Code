@@ -1,0 +1,15 @@
+C:\Users\KIIT\Desktop\Wipro Code\DemoPatternMatching\DemoPatternMatching\bin\Debug\net8.0\DemoPatternMatching.exe
+C:\Users\KIIT\Desktop\Wipro Code\DemoPatternMatching\DemoPatternMatching\bin\Debug\net8.0\DemoPatternMatching.deps.json
+C:\Users\KIIT\Desktop\Wipro Code\DemoPatternMatching\DemoPatternMatching\bin\Debug\net8.0\DemoPatternMatching.runtimeconfig.json
+C:\Users\KIIT\Desktop\Wipro Code\DemoPatternMatching\DemoPatternMatching\bin\Debug\net8.0\DemoPatternMatching.dll
+C:\Users\KIIT\Desktop\Wipro Code\DemoPatternMatching\DemoPatternMatching\bin\Debug\net8.0\DemoPatternMatching.pdb
+C:\Users\KIIT\Desktop\Wipro Code\DemoPatternMatching\DemoPatternMatching\obj\Debug\net8.0\DemoPatternMatching.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\Desktop\Wipro Code\DemoPatternMatching\DemoPatternMatching\obj\Debug\net8.0\DemoPatternMatching.AssemblyInfoInputs.cache
+C:\Users\KIIT\Desktop\Wipro Code\DemoPatternMatching\DemoPatternMatching\obj\Debug\net8.0\DemoPatternMatching.AssemblyInfo.cs
+C:\Users\KIIT\Desktop\Wipro Code\DemoPatternMatching\DemoPatternMatching\obj\Debug\net8.0\DemoPatternMatching.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Desktop\Wipro Code\DemoPatternMatching\DemoPatternMatching\obj\Debug\net8.0\DemoPatternMatching.sourcelink.json
+C:\Users\KIIT\Desktop\Wipro Code\DemoPatternMatching\DemoPatternMatching\obj\Debug\net8.0\DemoPatternMatching.dll
+C:\Users\KIIT\Desktop\Wipro Code\DemoPatternMatching\DemoPatternMatching\obj\Debug\net8.0\refint\DemoPatternMatching.dll
+C:\Users\KIIT\Desktop\Wipro Code\DemoPatternMatching\DemoPatternMatching\obj\Debug\net8.0\DemoPatternMatching.pdb
+C:\Users\KIIT\Desktop\Wipro Code\DemoPatternMatching\DemoPatternMatching\obj\Debug\net8.0\DemoPatternMatching.genruntimeconfig.cache
+C:\Users\KIIT\Desktop\Wipro Code\DemoPatternMatching\DemoPatternMatching\obj\Debug\net8.0\ref\DemoPatternMatching.dll
