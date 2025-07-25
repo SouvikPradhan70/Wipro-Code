@@ -1,0 +1,15 @@
+C:\Users\KIIT\Desktop\Wipro Code\StandardCSharpFeatures\StandardCSharpFeatures\obj\Debug\net8.0\StandardCSharpFeatures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\Desktop\Wipro Code\StandardCSharpFeatures\StandardCSharpFeatures\obj\Debug\net8.0\StandardCSharpFeatures.AssemblyInfoInputs.cache
+C:\Users\KIIT\Desktop\Wipro Code\StandardCSharpFeatures\StandardCSharpFeatures\obj\Debug\net8.0\StandardCSharpFeatures.AssemblyInfo.cs
+C:\Users\KIIT\Desktop\Wipro Code\StandardCSharpFeatures\StandardCSharpFeatures\obj\Debug\net8.0\StandardCSharpFeatures.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Desktop\Wipro Code\StandardCSharpFeatures\StandardCSharpFeatures\obj\Debug\net8.0\StandardCSharpFeatures.sourcelink.json
+C:\Users\KIIT\Desktop\Wipro Code\StandardCSharpFeatures\StandardCSharpFeatures\bin\Debug\net8.0\StandardCSharpFeatures.exe
+C:\Users\KIIT\Desktop\Wipro Code\StandardCSharpFeatures\StandardCSharpFeatures\bin\Debug\net8.0\StandardCSharpFeatures.deps.json
+C:\Users\KIIT\Desktop\Wipro Code\StandardCSharpFeatures\StandardCSharpFeatures\bin\Debug\net8.0\StandardCSharpFeatures.runtimeconfig.json
+C:\Users\KIIT\Desktop\Wipro Code\StandardCSharpFeatures\StandardCSharpFeatures\bin\Debug\net8.0\StandardCSharpFeatures.dll
+C:\Users\KIIT\Desktop\Wipro Code\StandardCSharpFeatures\StandardCSharpFeatures\bin\Debug\net8.0\StandardCSharpFeatures.pdb
+C:\Users\KIIT\Desktop\Wipro Code\StandardCSharpFeatures\StandardCSharpFeatures\obj\Debug\net8.0\StandardCSharpFeatures.dll
+C:\Users\KIIT\Desktop\Wipro Code\StandardCSharpFeatures\StandardCSharpFeatures\obj\Debug\net8.0\refint\StandardCSharpFeatures.dll
+C:\Users\KIIT\Desktop\Wipro Code\StandardCSharpFeatures\StandardCSharpFeatures\obj\Debug\net8.0\StandardCSharpFeatures.pdb
+C:\Users\KIIT\Desktop\Wipro Code\StandardCSharpFeatures\StandardCSharpFeatures\obj\Debug\net8.0\StandardCSharpFeatures.genruntimeconfig.cache
+C:\Users\KIIT\Desktop\Wipro Code\StandardCSharpFeatures\StandardCSharpFeatures\obj\Debug\net8.0\ref\StandardCSharpFeatures.dll

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36310.24 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentReportSystemUsingC#8Feature", "StudentReportSystemUsingC#8Feature\StudentReportSystemUsingC#8Feature.csproj", "{4231ACD1-D37B-4FF3-866D-E1F8168A6959}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4231ACD1-D37B-4FF3-866D-E1F8168A6959}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4231ACD1-D37B-4FF3-866D-E1F8168A6959}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4231ACD1-D37B-4FF3-866D-E1F8168A6959}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4231ACD1-D37B-4FF3-866D-E1F8168A6959}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC109C97-EE67-4481-9308-D4CF2884045A}
+	EndGlobalSection
+EndGlobal
