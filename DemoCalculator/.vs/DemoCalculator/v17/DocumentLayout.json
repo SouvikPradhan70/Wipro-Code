@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KIIT\\Desktop\\Wipro Code\\DemoCalculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B24E2389-B8F8-4D5B-B438-E320004E57F8}|DemoCalculator\\DemoCalculator.csproj|C:\\Users\\KIIT\\Desktop\\Wipro Code\\DemoCalculator\\democalculator\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B24E2389-B8F8-4D5B-B438-E320004E57F8}|DemoCalculator\\DemoCalculator.csproj|solutionrelative:democalculator\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{075D8415-D807-470F-B659-785B286705C1}|MathLibraryTest.MsTest\\MathLibraryTest.MsTest.csproj|c:\\users\\kiit\\desktop\\wipro code\\democalculator\\mathlibrarytest.mstest\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{075D8415-D807-470F-B659-785B286705C1}|MathLibraryTest.MsTest\\MathLibraryTest.MsTest.csproj|solutionrelative:mathlibrarytest.mstest\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B24E2389-B8F8-4D5B-B438-E320004E57F8}|DemoCalculator\\DemoCalculator.csproj|c:\\users\\kiit\\desktop\\wipro code\\democalculator\\democalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B24E2389-B8F8-4D5B-B438-E320004E57F8}|DemoCalculator\\DemoCalculator.csproj|solutionrelative:democalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\Wipro Code\\DemoCalculator\\DemoCalculator\\Calculator.cs",
+              "RelativeDocumentMoniker": "DemoCalculator\\Calculator.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\Wipro Code\\DemoCalculator\\DemoCalculator\\Calculator.cs",
+              "RelativeToolTip": "DemoCalculator\\Calculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T07:56:14.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Test1.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\Wipro Code\\DemoCalculator\\MathLibraryTest.MsTest\\Test1.cs",
+              "RelativeDocumentMoniker": "MathLibraryTest.MsTest\\Test1.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\Wipro Code\\DemoCalculator\\MathLibraryTest.MsTest\\Test1.cs",
+              "RelativeToolTip": "MathLibraryTest.MsTest\\Test1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T07:35:23.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\Wipro Code\\DemoCalculator\\DemoCalculator\\Program.cs",
+              "RelativeDocumentMoniker": "DemoCalculator\\Program.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\Wipro Code\\DemoCalculator\\DemoCalculator\\Program.cs",
+              "RelativeToolTip": "DemoCalculator\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T07:30:46.353Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

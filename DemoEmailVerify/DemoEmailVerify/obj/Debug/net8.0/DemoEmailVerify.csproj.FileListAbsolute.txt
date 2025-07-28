@@ -1,0 +1,15 @@
+C:\Users\KIIT\Desktop\Wipro Code\DemoEmailVerify\DemoEmailVerify\bin\Debug\net8.0\DemoEmailVerify.exe
+C:\Users\KIIT\Desktop\Wipro Code\DemoEmailVerify\DemoEmailVerify\bin\Debug\net8.0\DemoEmailVerify.deps.json
+C:\Users\KIIT\Desktop\Wipro Code\DemoEmailVerify\DemoEmailVerify\bin\Debug\net8.0\DemoEmailVerify.runtimeconfig.json
+C:\Users\KIIT\Desktop\Wipro Code\DemoEmailVerify\DemoEmailVerify\bin\Debug\net8.0\DemoEmailVerify.dll
+C:\Users\KIIT\Desktop\Wipro Code\DemoEmailVerify\DemoEmailVerify\bin\Debug\net8.0\DemoEmailVerify.pdb
+C:\Users\KIIT\Desktop\Wipro Code\DemoEmailVerify\DemoEmailVerify\obj\Debug\net8.0\DemoEmailVerify.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\Desktop\Wipro Code\DemoEmailVerify\DemoEmailVerify\obj\Debug\net8.0\DemoEmailVerify.AssemblyInfoInputs.cache
+C:\Users\KIIT\Desktop\Wipro Code\DemoEmailVerify\DemoEmailVerify\obj\Debug\net8.0\DemoEmailVerify.AssemblyInfo.cs
+C:\Users\KIIT\Desktop\Wipro Code\DemoEmailVerify\DemoEmailVerify\obj\Debug\net8.0\DemoEmailVerify.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Desktop\Wipro Code\DemoEmailVerify\DemoEmailVerify\obj\Debug\net8.0\DemoEmailVerify.sourcelink.json
+C:\Users\KIIT\Desktop\Wipro Code\DemoEmailVerify\DemoEmailVerify\obj\Debug\net8.0\DemoEmailVerify.dll
+C:\Users\KIIT\Desktop\Wipro Code\DemoEmailVerify\DemoEmailVerify\obj\Debug\net8.0\refint\DemoEmailVerify.dll
+C:\Users\KIIT\Desktop\Wipro Code\DemoEmailVerify\DemoEmailVerify\obj\Debug\net8.0\DemoEmailVerify.pdb
+C:\Users\KIIT\Desktop\Wipro Code\DemoEmailVerify\DemoEmailVerify\obj\Debug\net8.0\DemoEmailVerify.genruntimeconfig.cache
+C:\Users\KIIT\Desktop\Wipro Code\DemoEmailVerify\DemoEmailVerify\obj\Debug\net8.0\ref\DemoEmailVerify.dll
