@@ -26,21 +26,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\Wipro Code\\DemoNUnitTesting\\DemoNUnitTesting\\Program.cs",
-              "RelativeDocumentMoniker": "DemoNUnitTesting\\Program.cs",
-              "ToolTip": "C:\\Users\\KIIT\\Desktop\\Wipro Code\\DemoNUnitTesting\\DemoNUnitTesting\\Program.cs",
-              "RelativeToolTip": "DemoNUnitTesting\\Program.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAD4vwsAAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-28T04:07:35.819Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -60,11 +47,24 @@
               "Title": "UnitTest1.cs",
               "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\Wipro Code\\DemoNUnitTesting\\MathLibraryTest\\UnitTest1.cs",
               "RelativeDocumentMoniker": "MathLibraryTest\\UnitTest1.cs",
-              "ToolTip": "C:\\Users\\KIIT\\Desktop\\Wipro Code\\DemoNUnitTesting\\MathLibraryTest\\UnitTest1.cs*",
-              "RelativeToolTip": "MathLibraryTest\\UnitTest1.cs*",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\Wipro Code\\DemoNUnitTesting\\MathLibraryTest\\UnitTest1.cs",
+              "RelativeToolTip": "MathLibraryTest\\UnitTest1.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAowBoAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-28T04:17:16.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\Wipro Code\\DemoNUnitTesting\\DemoNUnitTesting\\Program.cs",
+              "RelativeDocumentMoniker": "DemoNUnitTesting\\Program.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\Wipro Code\\DemoNUnitTesting\\DemoNUnitTesting\\Program.cs",
+              "RelativeToolTip": "DemoNUnitTesting\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAD4vwsAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T04:07:35.819Z",
               "EditorCaption": ""
             },
             {

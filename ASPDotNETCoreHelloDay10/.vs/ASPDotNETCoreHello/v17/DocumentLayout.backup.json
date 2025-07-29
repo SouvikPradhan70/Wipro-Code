@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KIIT\\Desktop\\Wipro Code\\ASPDotNETCoreHelloDay10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{74357453-36BC-463F-AE95-BF6810CAD4EA}|ASPDotNETCoreHello\\ASPDotNETCoreHello.csproj|c:\\users\\kiit\\desktop\\wipro code\\aspdotnetcorehelloday10\\aspdotnetcorehello\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74357453-36BC-463F-AE95-BF6810CAD4EA}|ASPDotNETCoreHello\\ASPDotNETCoreHello.csproj|solutionrelative:aspdotnetcorehello\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74357453-36BC-463F-AE95-BF6810CAD4EA}|ASPDotNETCoreHello\\ASPDotNETCoreHello.csproj|c:\\users\\kiit\\desktop\\wipro code\\aspdotnetcorehelloday10\\aspdotnetcorehello\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74357453-36BC-463F-AE95-BF6810CAD4EA}|ASPDotNETCoreHello\\ASPDotNETCoreHello.csproj|solutionrelative:aspdotnetcorehello\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74357453-36BC-463F-AE95-BF6810CAD4EA}|ASPDotNETCoreHello\\ASPDotNETCoreHello.csproj|c:\\users\\kiit\\desktop\\wipro code\\aspdotnetcorehelloday10\\aspdotnetcorehello\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{74357453-36BC-463F-AE95-BF6810CAD4EA}|ASPDotNETCoreHello\\ASPDotNETCoreHello.csproj|solutionrelative:aspdotnetcorehello\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\Wipro Code\\ASPDotNETCoreHelloDay10\\ASPDotNETCoreHello\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ASPDotNETCoreHello\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\Wipro Code\\ASPDotNETCoreHelloDay10\\ASPDotNETCoreHello\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ASPDotNETCoreHello\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-29T05:38:20.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\Wipro Code\\ASPDotNETCoreHelloDay10\\ASPDotNETCoreHello\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ASPDotNETCoreHello\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\Wipro Code\\ASPDotNETCoreHelloDay10\\ASPDotNETCoreHello\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ASPDotNETCoreHello\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T05:30:36.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\Wipro Code\\ASPDotNETCoreHelloDay10\\ASPDotNETCoreHello\\Program.cs",
+              "RelativeDocumentMoniker": "ASPDotNETCoreHello\\Program.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\Wipro Code\\ASPDotNETCoreHelloDay10\\ASPDotNETCoreHello\\Program.cs*",
+              "RelativeToolTip": "ASPDotNETCoreHello\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T05:12:59.662Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Users\KIIT\Desktop\Wipro Code\DemoCalculator\DemoCalculator\bin\Debug\net8.0\DemoCalculator.exe
+C:\Users\KIIT\Desktop\Wipro Code\DemoCalculator\DemoCalculator\bin\Debug\net8.0\DemoCalculator.deps.json
+C:\Users\KIIT\Desktop\Wipro Code\DemoCalculator\DemoCalculator\bin\Debug\net8.0\DemoCalculator.runtimeconfig.json
+C:\Users\KIIT\Desktop\Wipro Code\DemoCalculator\DemoCalculator\bin\Debug\net8.0\DemoCalculator.dll
+C:\Users\KIIT\Desktop\Wipro Code\DemoCalculator\DemoCalculator\bin\Debug\net8.0\DemoCalculator.pdb
+C:\Users\KIIT\Desktop\Wipro Code\DemoCalculator\DemoCalculator\obj\Debug\net8.0\DemoCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\Desktop\Wipro Code\DemoCalculator\DemoCalculator\obj\Debug\net8.0\DemoCalculator.AssemblyInfoInputs.cache
+C:\Users\KIIT\Desktop\Wipro Code\DemoCalculator\DemoCalculator\obj\Debug\net8.0\DemoCalculator.AssemblyInfo.cs
+C:\Users\KIIT\Desktop\Wipro Code\DemoCalculator\DemoCalculator\obj\Debug\net8.0\DemoCalculator.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Desktop\Wipro Code\DemoCalculator\DemoCalculator\obj\Debug\net8.0\DemoCalculator.sourcelink.json
+C:\Users\KIIT\Desktop\Wipro Code\DemoCalculator\DemoCalculator\obj\Debug\net8.0\DemoCalculator.dll
+C:\Users\KIIT\Desktop\Wipro Code\DemoCalculator\DemoCalculator\obj\Debug\net8.0\refint\DemoCalculator.dll
+C:\Users\KIIT\Desktop\Wipro Code\DemoCalculator\DemoCalculator\obj\Debug\net8.0\DemoCalculator.pdb
+C:\Users\KIIT\Desktop\Wipro Code\DemoCalculator\DemoCalculator\obj\Debug\net8.0\DemoCalculator.genruntimeconfig.cache
+C:\Users\KIIT\Desktop\Wipro Code\DemoCalculator\DemoCalculator\obj\Debug\net8.0\ref\DemoCalculator.dll

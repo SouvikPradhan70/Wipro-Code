@@ -1,8 +1,0 @@
-C:\Users\KIIT\Desktop\Wipro Code\DemoCalculator\DemoCalculator\bin\Debug\DemoCalculator.exe.config
-C:\Users\KIIT\Desktop\Wipro Code\DemoCalculator\DemoCalculator\bin\Debug\DemoCalculator.exe
-C:\Users\KIIT\Desktop\Wipro Code\DemoCalculator\DemoCalculator\bin\Debug\DemoCalculator.pdb
-C:\Users\KIIT\Desktop\Wipro Code\DemoCalculator\DemoCalculator\obj\Debug\DemoCalculator.csproj.AssemblyReference.cache
-C:\Users\KIIT\Desktop\Wipro Code\DemoCalculator\DemoCalculator\obj\Debug\DemoCalculator.csproj.CoreCompileInputs.cache
-C:\Users\KIIT\Desktop\Wipro Code\DemoCalculator\DemoCalculator\obj\Debug\DemoCalculator.exe
-C:\Users\KIIT\Desktop\Wipro Code\DemoCalculator\DemoCalculator\obj\Debug\DemoCalculator.pdb
-C:\Users\KIIT\Desktop\Wipro Code\DemoCalculator\DemoCalculator\obj\Debug\DemoCalculator.exe.config
