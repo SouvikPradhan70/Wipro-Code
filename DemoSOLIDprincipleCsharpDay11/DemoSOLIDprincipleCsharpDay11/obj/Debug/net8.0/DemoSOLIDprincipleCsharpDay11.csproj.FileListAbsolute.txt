@@ -1,0 +1,15 @@
+C:\Users\KIIT\Desktop\Wipro Code\DemoSOLIDprincipleCsharpDay11\DemoSOLIDprincipleCsharpDay11\bin\Debug\net8.0\DemoSOLIDprincipleCsharpDay11.exe
+C:\Users\KIIT\Desktop\Wipro Code\DemoSOLIDprincipleCsharpDay11\DemoSOLIDprincipleCsharpDay11\bin\Debug\net8.0\DemoSOLIDprincipleCsharpDay11.deps.json
+C:\Users\KIIT\Desktop\Wipro Code\DemoSOLIDprincipleCsharpDay11\DemoSOLIDprincipleCsharpDay11\bin\Debug\net8.0\DemoSOLIDprincipleCsharpDay11.runtimeconfig.json
+C:\Users\KIIT\Desktop\Wipro Code\DemoSOLIDprincipleCsharpDay11\DemoSOLIDprincipleCsharpDay11\bin\Debug\net8.0\DemoSOLIDprincipleCsharpDay11.dll
+C:\Users\KIIT\Desktop\Wipro Code\DemoSOLIDprincipleCsharpDay11\DemoSOLIDprincipleCsharpDay11\bin\Debug\net8.0\DemoSOLIDprincipleCsharpDay11.pdb
+C:\Users\KIIT\Desktop\Wipro Code\DemoSOLIDprincipleCsharpDay11\DemoSOLIDprincipleCsharpDay11\obj\Debug\net8.0\DemoSOLIDprincipleCsharpDay11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\Desktop\Wipro Code\DemoSOLIDprincipleCsharpDay11\DemoSOLIDprincipleCsharpDay11\obj\Debug\net8.0\DemoSOLIDprincipleCsharpDay11.AssemblyInfoInputs.cache
+C:\Users\KIIT\Desktop\Wipro Code\DemoSOLIDprincipleCsharpDay11\DemoSOLIDprincipleCsharpDay11\obj\Debug\net8.0\DemoSOLIDprincipleCsharpDay11.AssemblyInfo.cs
+C:\Users\KIIT\Desktop\Wipro Code\DemoSOLIDprincipleCsharpDay11\DemoSOLIDprincipleCsharpDay11\obj\Debug\net8.0\DemoSOLIDprincipleCsharpDay11.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Desktop\Wipro Code\DemoSOLIDprincipleCsharpDay11\DemoSOLIDprincipleCsharpDay11\obj\Debug\net8.0\DemoSOLIDprincipleCsharpDay11.sourcelink.json
+C:\Users\KIIT\Desktop\Wipro Code\DemoSOLIDprincipleCsharpDay11\DemoSOLIDprincipleCsharpDay11\obj\Debug\net8.0\DemoSOLIDprincipleCsharpDay11.dll
+C:\Users\KIIT\Desktop\Wipro Code\DemoSOLIDprincipleCsharpDay11\DemoSOLIDprincipleCsharpDay11\obj\Debug\net8.0\refint\DemoSOLIDprincipleCsharpDay11.dll
+C:\Users\KIIT\Desktop\Wipro Code\DemoSOLIDprincipleCsharpDay11\DemoSOLIDprincipleCsharpDay11\obj\Debug\net8.0\DemoSOLIDprincipleCsharpDay11.pdb
+C:\Users\KIIT\Desktop\Wipro Code\DemoSOLIDprincipleCsharpDay11\DemoSOLIDprincipleCsharpDay11\obj\Debug\net8.0\DemoSOLIDprincipleCsharpDay11.genruntimeconfig.cache
+C:\Users\KIIT\Desktop\Wipro Code\DemoSOLIDprincipleCsharpDay11\DemoSOLIDprincipleCsharpDay11\obj\Debug\net8.0\ref\DemoSOLIDprincipleCsharpDay11.dll

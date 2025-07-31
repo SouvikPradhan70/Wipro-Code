@@ -1,0 +1,15 @@
+C:\Users\KIIT\Desktop\Wipro Code\DemoCriptoGraphyDay11\DemoCriptoGraphyDay11\bin\Debug\net8.0\DemoCriptoGraphyDay11.exe
+C:\Users\KIIT\Desktop\Wipro Code\DemoCriptoGraphyDay11\DemoCriptoGraphyDay11\bin\Debug\net8.0\DemoCriptoGraphyDay11.deps.json
+C:\Users\KIIT\Desktop\Wipro Code\DemoCriptoGraphyDay11\DemoCriptoGraphyDay11\bin\Debug\net8.0\DemoCriptoGraphyDay11.runtimeconfig.json
+C:\Users\KIIT\Desktop\Wipro Code\DemoCriptoGraphyDay11\DemoCriptoGraphyDay11\bin\Debug\net8.0\DemoCriptoGraphyDay11.dll
+C:\Users\KIIT\Desktop\Wipro Code\DemoCriptoGraphyDay11\DemoCriptoGraphyDay11\bin\Debug\net8.0\DemoCriptoGraphyDay11.pdb
+C:\Users\KIIT\Desktop\Wipro Code\DemoCriptoGraphyDay11\DemoCriptoGraphyDay11\obj\Debug\net8.0\DemoCriptoGraphyDay11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\Desktop\Wipro Code\DemoCriptoGraphyDay11\DemoCriptoGraphyDay11\obj\Debug\net8.0\DemoCriptoGraphyDay11.AssemblyInfoInputs.cache
+C:\Users\KIIT\Desktop\Wipro Code\DemoCriptoGraphyDay11\DemoCriptoGraphyDay11\obj\Debug\net8.0\DemoCriptoGraphyDay11.AssemblyInfo.cs
+C:\Users\KIIT\Desktop\Wipro Code\DemoCriptoGraphyDay11\DemoCriptoGraphyDay11\obj\Debug\net8.0\DemoCriptoGraphyDay11.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Desktop\Wipro Code\DemoCriptoGraphyDay11\DemoCriptoGraphyDay11\obj\Debug\net8.0\DemoCriptoGraphyDay11.sourcelink.json
+C:\Users\KIIT\Desktop\Wipro Code\DemoCriptoGraphyDay11\DemoCriptoGraphyDay11\obj\Debug\net8.0\DemoCriptoGraphyDay11.dll
+C:\Users\KIIT\Desktop\Wipro Code\DemoCriptoGraphyDay11\DemoCriptoGraphyDay11\obj\Debug\net8.0\refint\DemoCriptoGraphyDay11.dll
+C:\Users\KIIT\Desktop\Wipro Code\DemoCriptoGraphyDay11\DemoCriptoGraphyDay11\obj\Debug\net8.0\DemoCriptoGraphyDay11.pdb
+C:\Users\KIIT\Desktop\Wipro Code\DemoCriptoGraphyDay11\DemoCriptoGraphyDay11\obj\Debug\net8.0\DemoCriptoGraphyDay11.genruntimeconfig.cache
+C:\Users\KIIT\Desktop\Wipro Code\DemoCriptoGraphyDay11\DemoCriptoGraphyDay11\obj\Debug\net8.0\ref\DemoCriptoGraphyDay11.dll

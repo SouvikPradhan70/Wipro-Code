@@ -1,0 +1,15 @@
+C:\Users\KIIT\Desktop\Wipro Code\Day-11Assesment1\Day-11Assesment1\bin\Debug\net8.0\Day-11Assesment1.exe
+C:\Users\KIIT\Desktop\Wipro Code\Day-11Assesment1\Day-11Assesment1\bin\Debug\net8.0\Day-11Assesment1.deps.json
+C:\Users\KIIT\Desktop\Wipro Code\Day-11Assesment1\Day-11Assesment1\bin\Debug\net8.0\Day-11Assesment1.runtimeconfig.json
+C:\Users\KIIT\Desktop\Wipro Code\Day-11Assesment1\Day-11Assesment1\bin\Debug\net8.0\Day-11Assesment1.dll
+C:\Users\KIIT\Desktop\Wipro Code\Day-11Assesment1\Day-11Assesment1\bin\Debug\net8.0\Day-11Assesment1.pdb
+C:\Users\KIIT\Desktop\Wipro Code\Day-11Assesment1\Day-11Assesment1\obj\Debug\net8.0\Day-11Assesment1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\Desktop\Wipro Code\Day-11Assesment1\Day-11Assesment1\obj\Debug\net8.0\Day-11Assesment1.AssemblyInfoInputs.cache
+C:\Users\KIIT\Desktop\Wipro Code\Day-11Assesment1\Day-11Assesment1\obj\Debug\net8.0\Day-11Assesment1.AssemblyInfo.cs
+C:\Users\KIIT\Desktop\Wipro Code\Day-11Assesment1\Day-11Assesment1\obj\Debug\net8.0\Day-11Assesment1.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Desktop\Wipro Code\Day-11Assesment1\Day-11Assesment1\obj\Debug\net8.0\Day-11Assesment1.sourcelink.json
+C:\Users\KIIT\Desktop\Wipro Code\Day-11Assesment1\Day-11Assesment1\obj\Debug\net8.0\Day-11Assesment1.dll
+C:\Users\KIIT\Desktop\Wipro Code\Day-11Assesment1\Day-11Assesment1\obj\Debug\net8.0\refint\Day-11Assesment1.dll
+C:\Users\KIIT\Desktop\Wipro Code\Day-11Assesment1\Day-11Assesment1\obj\Debug\net8.0\Day-11Assesment1.pdb
+C:\Users\KIIT\Desktop\Wipro Code\Day-11Assesment1\Day-11Assesment1\obj\Debug\net8.0\Day-11Assesment1.genruntimeconfig.cache
+C:\Users\KIIT\Desktop\Wipro Code\Day-11Assesment1\Day-11Assesment1\obj\Debug\net8.0\ref\Day-11Assesment1.dll

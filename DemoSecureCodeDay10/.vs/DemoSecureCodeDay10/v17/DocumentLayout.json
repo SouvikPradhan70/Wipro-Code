@@ -40,7 +40,7 @@
               "RelativeDocumentMoniker": "DemoSecureCodeDay10\\Pages\\Index.cshtml.cs",
               "ToolTip": "C:\\Users\\KIIT\\Desktop\\Wipro Code\\DemoSecureCodeDay10\\DemoSecureCodeDay10\\Pages\\Index.cshtml.cs",
               "RelativeToolTip": "DemoSecureCodeDay10\\Pages\\Index.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-29T10:23:00.085Z",
               "EditorCaption": ""
@@ -53,9 +53,10 @@
               "RelativeDocumentMoniker": "DemoSecureCodeDay10\\Pages\\AdminOnly.cshtml",
               "ToolTip": "C:\\Users\\KIIT\\Desktop\\Wipro Code\\DemoSecureCodeDay10\\DemoSecureCodeDay10\\Pages\\AdminOnly.cshtml",
               "RelativeToolTip": "DemoSecureCodeDay10\\Pages\\AdminOnly.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAawAQAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-29T10:19:30.268Z"
+              "WhenOpened": "2025-07-29T10:19:30.268Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -65,9 +66,10 @@
               "RelativeDocumentMoniker": "DemoSecureCodeDay10\\Pages\\AdminOnly.cshtml.cs",
               "ToolTip": "C:\\Users\\KIIT\\Desktop\\Wipro Code\\DemoSecureCodeDay10\\DemoSecureCodeDay10\\Pages\\AdminOnly.cshtml.cs",
               "RelativeToolTip": "DemoSecureCodeDay10\\Pages\\AdminOnly.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-29T10:23:04.737Z"
+              "WhenOpened": "2025-07-29T10:23:04.737Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -77,9 +79,10 @@
               "RelativeDocumentMoniker": "DemoSecureCodeDay10\\Program.cs",
               "ToolTip": "C:\\Users\\KIIT\\Desktop\\Wipro Code\\DemoSecureCodeDay10\\DemoSecureCodeDay10\\Program.cs",
               "RelativeToolTip": "DemoSecureCodeDay10\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAADAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-29T10:09:56.201Z"
+              "WhenOpened": "2025-07-29T10:09:56.201Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\KIIT\\Desktop\\Wipro Code\\DemoSecureCodeDay10\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0AEDD98D-61F8-43E2-94C5-EE44215F6B87}|DemoSecureCodeDay10\\DemoSecureCodeDay10.csproj|c:\\users\\kiit\\desktop\\wipro code\\demosecurecodeday10\\demosecurecodeday10\\pages\\adminonly.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0AEDD98D-61F8-43E2-94C5-EE44215F6B87}|DemoSecureCodeDay10\\DemoSecureCodeDay10.csproj|solutionrelative:demosecurecodeday10\\pages\\adminonly.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0AEDD98D-61F8-43E2-94C5-EE44215F6B87}|DemoSecureCodeDay10\\DemoSecureCodeDay10.csproj|c:\\users\\kiit\\desktop\\wipro code\\demosecurecodeday10\\demosecurecodeday10\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0AEDD98D-61F8-43E2-94C5-EE44215F6B87}|DemoSecureCodeDay10\\DemoSecureCodeDay10.csproj|solutionrelative:demosecurecodeday10\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0AEDD98D-61F8-43E2-94C5-EE44215F6B87}|DemoSecureCodeDay10\\DemoSecureCodeDay10.csproj|c:\\users\\kiit\\desktop\\wipro code\\demosecurecodeday10\\demosecurecodeday10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0AEDD98D-61F8-43E2-94C5-EE44215F6B87}|DemoSecureCodeDay10\\DemoSecureCodeDay10.csproj|solutionrelative:demosecurecodeday10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0AEDD98D-61F8-43E2-94C5-EE44215F6B87}|DemoSecureCodeDay10\\DemoSecureCodeDay10.csproj|c:\\users\\kiit\\desktop\\wipro code\\demosecurecodeday10\\demosecurecodeday10\\pages\\adminonly.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0AEDD98D-61F8-43E2-94C5-EE44215F6B87}|DemoSecureCodeDay10\\DemoSecureCodeDay10.csproj|solutionrelative:demosecurecodeday10\\pages\\adminonly.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0AEDD98D-61F8-43E2-94C5-EE44215F6B87}|DemoSecureCodeDay10\\DemoSecureCodeDay10.csproj|c:\\users\\kiit\\desktop\\wipro code\\demosecurecodeday10\\demosecurecodeday10\\pages\\adminonly.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,26 +34,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\Wipro Code\\DemoSecureCodeDay10\\DemoSecureCodeDay10\\Pages\\Index.cshtml.cs",
               "RelativeDocumentMoniker": "DemoSecureCodeDay10\\Pages\\Index.cshtml.cs",
               "ToolTip": "C:\\Users\\KIIT\\Desktop\\Wipro Code\\DemoSecureCodeDay10\\DemoSecureCodeDay10\\Pages\\Index.cshtml.cs",
               "RelativeToolTip": "DemoSecureCodeDay10\\Pages\\Index.cshtml.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAuwBoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-29T10:23:00.085Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "AdminOnly.cshtml",
               "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\Wipro Code\\DemoSecureCodeDay10\\DemoSecureCodeDay10\\Pages\\AdminOnly.cshtml",
               "RelativeDocumentMoniker": "DemoSecureCodeDay10\\Pages\\AdminOnly.cshtml",
               "ToolTip": "C:\\Users\\KIIT\\Desktop\\Wipro Code\\DemoSecureCodeDay10\\DemoSecureCodeDay10\\Pages\\AdminOnly.cshtml",
               "RelativeToolTip": "DemoSecureCodeDay10\\Pages\\AdminOnly.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAawAQAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-07-29T10:19:30.268Z",
               "EditorCaption": ""
@@ -66,20 +66,20 @@
               "RelativeDocumentMoniker": "DemoSecureCodeDay10\\Pages\\AdminOnly.cshtml.cs",
               "ToolTip": "C:\\Users\\KIIT\\Desktop\\Wipro Code\\DemoSecureCodeDay10\\DemoSecureCodeDay10\\Pages\\AdminOnly.cshtml.cs",
               "RelativeToolTip": "DemoSecureCodeDay10\\Pages\\AdminOnly.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-29T10:23:04.737Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\Wipro Code\\DemoSecureCodeDay10\\DemoSecureCodeDay10\\Program.cs",
               "RelativeDocumentMoniker": "DemoSecureCodeDay10\\Program.cs",
               "ToolTip": "C:\\Users\\KIIT\\Desktop\\Wipro Code\\DemoSecureCodeDay10\\DemoSecureCodeDay10\\Program.cs",
               "RelativeToolTip": "DemoSecureCodeDay10\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAADAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-29T10:09:56.201Z",
               "EditorCaption": ""

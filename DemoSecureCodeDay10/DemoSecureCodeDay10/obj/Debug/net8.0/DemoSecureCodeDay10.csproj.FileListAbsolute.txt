@@ -31,4 +31,3 @@ C:\Users\KIIT\Desktop\Wipro Code\DemoSecureCodeDay10\DemoSecureCodeDay10\obj\Deb
 C:\Users\KIIT\Desktop\Wipro Code\DemoSecureCodeDay10\DemoSecureCodeDay10\obj\Debug\net8.0\DemoSecureCodeDay10.pdb
 C:\Users\KIIT\Desktop\Wipro Code\DemoSecureCodeDay10\DemoSecureCodeDay10\obj\Debug\net8.0\DemoSecureCodeDay10.genruntimeconfig.cache
 C:\Users\KIIT\Desktop\Wipro Code\DemoSecureCodeDay10\DemoSecureCodeDay10\obj\Debug\net8.0\ref\DemoSecureCodeDay10.dll
-C:\Users\KIIT\Desktop\Wipro Code\DemoSecureCodeDay10\DemoSecureCodeDay10\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

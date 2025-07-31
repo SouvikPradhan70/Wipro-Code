@@ -15,15 +15,15 @@ namespace DemoSecureCodeDay10.Pages
         public void OnGet()
         {
             _logger.LogInformation("Someone has visited the homepage");
-            try
-            {
-                throw new Exception("This is a test exception to demonstrate error logging.");
-            }
-            catch (Exception ex)
-            {
+            //try
+            //{
+            //    //throw new Exception("Testing error failed!!!");
+            //}
+            //catch (Exception ex)
+            //{
 
-                _logger.LogError(ex, "Something Faild");
-            }
+            //    _logger.LogError(ex, "Something Faild");
+            //}
 
         }
     }
