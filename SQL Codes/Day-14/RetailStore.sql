@@ -85,7 +85,6 @@ INSERT INTO OrderItems
 SELECT order_id, item_id, product_id, quantity
 FROM Orders_1NF;
 
-
  Select * FROM Customers;
  Select * FROM Categories;
  Select * FROM Products;
@@ -94,8 +93,7 @@ FROM Orders_1NF;
 
  -- for converting above table into 3NF 
  -- they should be in 2NF
- -- No transitive dpendencies)
-
+ -- No transitive dpendencies
  -- Create table for Product inventory 
  -- Create table for Customer Status 
 
