@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>TimeTable</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, Helvetica, sans-serif;
+    }
+
+    nav {
+      background-color: black;
+      color: white;
+      font-weight: bold;
+      text-align: center;
+      padding: 20px;
+    }
+
+    #toggle {
+      display: none;
+    }
+
+    label {
+      background-color: brown;
+      color: white;
+      padding: 15px 30px;
+      font-weight: bold;
+      border-radius: 40px;
+      border: none;
+      cursor: pointer;
+      position: relative;
+      top: 40px;
+      left: 50%;
+      transform: translateX(-50%);
+      display: inline-block;
+    }
+
+    #timetable {
+      display: none;
+      text-align: center;
+      margin-top: 100px;
+    }
+
+    #toggle:checked ~ #timetable {
+      display: block;
+    }
+
+    .table-container {
+      overflow-x: auto;
+      max-width: 100%;
+      margin-top: 20px;
+    }
+
+    table {
+      margin: auto;
+      border-collapse: collapse;
+      min-width: 600px; /* allows horizontal scroll on mobile */
+    }
+
+    th, td {
+      border: 1px solid black;
+      padding: 10px;
+    }
+
+    th {
+      background-color: #f2f2f2;
+    }
+  </style>
+</head>
+<body>
+
+  <nav>Spring Flowers School</nav>
+
+  <!-- Hidden Checkbox -->
+  <input type="checkbox" id="toggle" />
+
+  <!-- Button as Label -->
+  <label for="toggle">Time Table</label>
+
+  <!-- Timetable Section -->
+  <div id="timetable">
+    <h2>Class Timetable</h2>
+
+    <!-- Scrollable wrapper for mobile -->
+    <div class="table-container">
+      <table>
+        <tr>
+          <th>Day</th>
+          <th>9AM - 10AM</th>
+          <th>10AM - 11AM</th>
+          <th>11AM - 12PM</th>
+        </tr>
+        <tr>
+          <td>Monday</td>
+          <td>Math</td>
+          <td>Science</td>
+          <td>English</td>
+        </tr>
+        <tr>
+          <td>Tuesday</td>
+          <td>History</td>
+          <td>Math</td>
+          <td>Art</td>
+        </tr>
+        <tr>
+          <td>Wednesday</td>
+          <td>Math</td>
+          <td>Science</td>
+          <td>English</td>
+        </tr>
+        <tr>
+          <td>Thursday</td>
+          <td>History</td>
+          <td>Math</td>
+          <td>Art</td>
+        </tr>
+        <tr>
+          <td>Friday</td>
+          <td>Math</td>
+          <td>Science</td>
+          <td>English</td>
+        </tr>
+        <tr>
+          <td>Saturday</td>
+          <td>History</td>
+          <td>Math</td>
+          <td>Art</td>
+        </tr>
+        <tr>
+          <td>Sunday</td>
+          <td colspan="3">Enjoy</td>
+        </tr>
+      </table>
+    </div>
+  </div>
+
+</body>
+</html>

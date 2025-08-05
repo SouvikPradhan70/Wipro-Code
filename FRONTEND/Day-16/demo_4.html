@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Demo 4: Flexbox & Semantic HTML</title>
+  <style>
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+    }
+
+    header {
+      background-color: #333;
+      color: white;
+      padding: 15px;
+      text-align: center;
+    }
+
+    main {
+      display: flex;
+      flex-wrap: wrap;
+      padding: 20px;
+    }
+
+    .card {
+      background-color: #f8f8f8;
+      border: 1px solid #ddd;
+      padding: 20px;
+      margin: 10px;
+      flex: 1 1 250px;
+      border-radius: 8px;
+    }
+
+    footer {
+      background-color: #222;
+      color: #ccc;
+      text-align: center;
+      padding: 10px;
+      position: sticky;
+      bottom: 0;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>My Responsive Page</h1>
+  </header>
+
+  <main>
+    <div class="card">
+      <h2>Card 1</h2>
+      <p>This is a responsive Flexbox card layout.</p>
+    </div>
+    <div class="card">
+      <h2>Card 2</h2>
+      <p>It adjusts based on screen size using <b>flex-wrap</b>.</p>
+    </div>
+    <div class="card">
+      <h2>Card 3</h2>
+      <p>Semantic tags like <code>&lt;main&gt;</code> and <code>&lt;footer&gt;</code> are used.</p>
+    </div>
+  </main>
+
+  <footer>
+    &copy; 2025 Responsive Demo
+  </footer>
+
+</body>
+</html>
