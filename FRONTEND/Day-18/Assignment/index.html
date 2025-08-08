@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Random User Fetch</title>
+</head>
+<body>
+  <h2>Random User Info</h2>
+  <button id="getUserBtn">Get Random User</button>
+  <div id="userInfo" style="margin-top: 20px;"></div>
+
+  <script>
+    document.getElementById("getUserBtn").addEventListener("click", () => {
+      fetch("https://randomuser.me/api/")
+        .then(response => {
+          if (!response.ok) {
+            throw new Error("Failed to fetch user data");
+          }
+          return response.json();
+        })
+        .then(data => {
+          const user = data.results[0];
+          const html = `
+            <p><strong>Name:</strong> ${user.name.title} ${user.name.first} ${user.name.last}</p>
+            <p><strong>Email:</strong> ${user.email}</p>
+            <img src="${user.picture.large}" alt="User Image" width="150"/>
+          `;
+          document.getElementById("userInfo").innerHTML = html;
+        })
+        .catch(error => {
+          document.getElementById("userInfo").innerText = "Error fetching user: " + error;
+        });
+    });
+  </script>
+</body>
+</html>
