@@ -1,0 +1,13 @@
+<app-hello></app-hello>
+<p>Hello:{{name}}</p>
+<img [src]="imgUrl"/>  <br>
+<button (click)="sayHello()">Touch me </button>  <br>
+
+<input [(ngModel)]="message"/>
+<p>{{message}}</p>
+
+<p *ngIf="isLoggedIn">Welcome back</p>
+
+<ul>
+    <li *ngFor="let user of users">{{user}}</li>
+</ul>
