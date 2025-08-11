@@ -1,0 +1,8 @@
+/* here we will implement scope styling */
+p{
+    font-weight: bolder;
+    color: pink;
+}
+
+/* this styling is not shared and dont link to other component */
+
