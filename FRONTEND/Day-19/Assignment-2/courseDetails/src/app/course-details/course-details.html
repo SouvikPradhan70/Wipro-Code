@@ -1,0 +1,9 @@
+<h3>Course Details</h3>
+<div>
+  <label>Title:</label>
+  <input [(ngModel)]="course.title" (ngModelChange)="onCourseChange()" />
+</div>
+<div>
+  <label>Description:</label>
+  <textarea [(ngModel)]="course.description" (ngModelChange)="onCourseChange()"></textarea>
+</div>

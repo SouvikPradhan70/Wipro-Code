@@ -1,0 +1,27 @@
+<h2>Angular Pipes Playground</h2>
+
+<!-- Date Pipe -->
+<p>Today's date is: {{ todaysDate | date:'fullDate' }}</p>
+
+<!-- Currency Pipe -->
+<p>Price: {{ productPrice | currency:'USD':'symbol':'1.2-2' }}</p>
+
+<!-- Uppercase & Lowercase -->
+<p>{{ welcomeMessage | uppercase }}</p>
+<p>{{ welcomeMessage | lowercase }}</p>
+
+<!-- Decimal Pipe -->
+<p>Rating: {{ productRating | number:'1.2-2' }}</p>
+
+<!-- Percent Pipe -->
+<p>Discount: {{ discount | percent }}</p>
+
+<!-- Slice Pipe -->
+<p>First 3 letters: {{ productName | slice:0:3 }}</p>
+
+
+<hr>
+<!-- Note on pure and impure pipes -->
+<p><strong>Pure Pipes : only run when input changes</strong></p>
+<p><strong>Impure Pipes : Run on every change detection cycle</strong></p>
+

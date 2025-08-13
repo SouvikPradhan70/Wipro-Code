@@ -1,0 +1,11 @@
+<div style="display:flex; gap:24px;">
+  <app-course-list
+    [courses]="courses"
+    (courseSelected)="onCouseSelected($event)">
+  </app-course-list>
+
+  <app-course-details
+    *ngIf="selectedCourse"
+    [(course)]="selectedCourse">
+  </app-course-details>
+</div>

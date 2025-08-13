@@ -1,0 +1,7 @@
+<h3>Available Courses</h3>
+<ul>
+  <li *ngFor="let course of courses">
+    {{ course.title }}
+    <button (click)="selectCourse(course)">View Details</button>
+  </li>
+</ul>
