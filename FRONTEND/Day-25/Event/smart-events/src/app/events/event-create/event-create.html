@@ -1,0 +1,35 @@
+<!-- <p>event-create works!</p> -->
+ <h2>create Event</h2>
+ <form [formGroup]="form" (ngSubmit)="submit()" novalidate>
+  <label>Title
+    <input formControlName="title" placeholder="e.g. Dev Summit">
+    <small *ngIf="form.controls.title.touched && form.controls.title.errors?.['required']">Required</small>
+  </label>
+
+  <label>Date
+    <input type="date" formControlName="date">
+    <small *ngIf="form.controls.date.touched && form.controls.date.errors?.['required']">Required</small>
+  </label>
+
+  <label>Location
+    <input formControlName="location">
+    <small *ngIf="form.controls.location.touched && form.controls.location.errors?.['required']">Required</small>
+  </label>
+
+  <label>Price (INR)
+    <input type="number" formControlName="price" min="0" step="1">
+  </label>
+
+  <label>Capacity
+    <input type="number" formControlName="capacity" min="1" step="1">
+    <small *ngIf="form.controls.capacity.touched && form.controls.capacity.errors?.['required']">Required</small>
+  </label>
+
+  <label>Description
+    <textarea formControlName="description" rows="3"></textarea>
+  </label>
+
+  <p *ngIf="error" class="error">{{ error }}</p>
+
+  <button type="submit">Create</button>
+</form>

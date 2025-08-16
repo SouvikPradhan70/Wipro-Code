@@ -1,0 +1,17 @@
+<section>
+  <h2>Attendees</h2>
+  <label>
+    Search:
+    <input [ngModel]="q()" (ngModelChange)="q.set($event)" placeholder="name or email">
+  </label>
+
+  <p *ngIf="loading()">Loading…</p>
+  <p *ngIf="error()">{{ error() }}</p>
+
+  <ul class="list" *ngIf="!loading() && !error()">
+    <li *ngFor="let a of filtered()">
+      <strong>{{ a.name }}</strong> — {{ a.email }} •
+      <small>Event #{{ a.eventId }} on {{ a.registeredAt | date:'medium' }}</small>
+    </li>
+  </ul>
+</section>

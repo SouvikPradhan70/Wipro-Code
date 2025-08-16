@@ -1,0 +1,6 @@
+form { display:grid; gap:.75rem; max-width:520px;
+  label { display:grid; gap:.25rem; }
+  input, textarea { padding:.5rem .6rem; border:1px solid #ddd; border-radius:10px; }
+  .error { color:#c00; font-weight:600; }
+  button { padding:.5rem .8rem; border-radius:10px; background:#056; color:#fff; border:none; }
+}

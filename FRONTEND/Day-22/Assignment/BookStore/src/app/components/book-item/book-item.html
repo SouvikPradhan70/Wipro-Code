@@ -1,0 +1,22 @@
+<article class="book-card">
+  <h3 class="title">{{ book.title | uppercase }}</h3>
+
+  <p class="row">
+    <span>Original:</span>
+    <strong>{{ book.price | currency:'INR':'symbol':'1.0-2' }}</strong>
+  </p>
+
+  <p class="row" *ngIf="book.discountPercent as d">
+    <span>Discounted ({{ d }}% off):</span>
+    <strong>{{ (book.price | discount:d) | currency:'INR':'symbol':'1.0-2' }}</strong>
+  </p>
+
+  <p class="row">
+    <span>Publication:</span>
+    <em>{{ book.publicationDate | date:'mediumDate' }}</em>
+  </p>
+
+  <p class="desc">
+    {{ book.description | slice:0:50 }}<span *ngIf="book.description.length > 50">…</span>
+  </p>
+</article>

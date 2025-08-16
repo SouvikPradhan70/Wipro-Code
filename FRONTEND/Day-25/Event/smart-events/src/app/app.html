@@ -1,0 +1,15 @@
+<header class="nav">
+  <h1>Smart Event Planner</h1>
+  <nav>
+    <a routerLink="/events" routerLinkActive="active" [routerLinkActiveOptions]="{exact:true}">Events</a>
+    <a routerLink="/events/create" routerLinkActive="active">Create Event</a>
+    <a routerLink="/attendees" routerLinkActive="active">Attendees</a>
+  </nav>
+
+  <p class="today">
+    Today: {{ today | date:'fullDate' }}
+  </p>
+</header>
+<main class="container">
+  <router-outlet></router-outlet>
+</main>

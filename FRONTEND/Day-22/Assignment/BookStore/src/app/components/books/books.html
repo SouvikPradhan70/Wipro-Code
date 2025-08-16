@@ -1,0 +1,19 @@
+<section class="wrap">
+  <h2>Books (async pipe)</h2>
+  <div class="grid" *ngIf="books$ | async as books; else loading1">
+    <app-book-item *ngFor="let b of books" [book]="b"></app-book-item>
+  </div>
+  <ng-template #loading1>
+    <p class="muted">Loading (async)…</p>
+  </ng-template>
+</section>
+
+<section class="wrap">
+  <h2>Books (manual subscribe)</h2>
+  <div class="grid" *ngIf="manualBooks?.length; else loading2">
+    <app-book-item *ngFor="let b of manualBooks" [book]="b"></app-book-item>
+  </div>
+  <ng-template #loading2>
+    <p class="muted">Loading (manual)…</p>
+  </ng-template>
+</section>

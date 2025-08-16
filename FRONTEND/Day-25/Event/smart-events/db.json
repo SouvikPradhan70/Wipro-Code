@@ -1,0 +1,60 @@
+{
+  "events": [
+    {
+      "id": "1",
+      "title": "Angular Meetup",
+      "date": "2025-08-20",
+      "location": "Bengaluru",
+      "price": 0,
+      "capacity": 100,
+      "attendeesCount": 4,
+      "description": "Monthly Angular community meetup."
+    },
+    {
+      "id": "2",
+      "title": "Smart Dev Conference",
+      "date": "2025-09-05",
+      "location": "Hyderabad",
+      "price": 1999,
+      "capacity": 300,
+      "attendeesCount": 1,
+      "description": "Talks, workshops and networking."
+    },
+    {
+      "id": "85c9",
+      "title": "React js meet up",
+      "date": "2025-08-20",
+      "location": "Bhubaneswar",
+      "price": 10000,
+      "capacity": 10000,
+      "attendeesCount": 1,
+      "description": "React student can meet here !!"
+    },
+    {
+      "id": "25af",
+      "title": "js",
+      "date": "2025-08-27",
+      "location": "ooria",
+      "price": 10,
+      "capacity": 50,
+      "attendeesCount": 0,
+      "description": "hi by\n"
+    }
+  ],
+  "attendees": [
+    {
+      "id": "1",
+      "name": "Riya Sen",
+      "email": "riya@example.com",
+      "eventId": 1,
+      "registeredAt": "2025-08-10T10:00:00Z"
+    },
+    {
+      "id": "cea5",
+      "name": "Souvik Pradhan",
+      "email": "souvikpradhan70@gmail.com",
+      "eventId": "85c9",
+      "registeredAt": "2025-08-16T15:23:10.683Z"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+.wrap {
+  margin: 18px auto;
+  max-width: 980px;
+  padding: 0 12px;
+}
+
+h2 {
+  margin: 0 0 12px;
+  color: #e5e7eb;
+}
+
+.grid {
+  display: grid;
+  gap: 12px;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+}
+
+.muted {
+  color: #9ca3af;
+}

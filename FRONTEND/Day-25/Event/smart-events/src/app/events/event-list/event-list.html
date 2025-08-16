@@ -1,0 +1,60 @@
+<section>
+    <h2>Events</h2>
+
+    <div class="filters">
+        <label >Filter by month
+            <select [(ngModel)]="filterMonth">
+                <option [ngValue]="null">All</option>
+                <option [ngValue]="0">Jan</option>
+                <option [ngValue]="1">Feb</option>
+                <option [ngValue]="2">Mar</option>
+                <option [ngValue]="3">Apr</option>
+                <option [ngValue]="4">May</option>
+                <option [ngValue]="5">Jun</option>
+                <option [ngValue]="6">Jul</option>
+                <option [ngValue]="7">Aug</option>
+                <option [ngValue]="8">Sep</option>
+                <option [ngValue]="9">Oct</option>
+                <option [ngValue]="10">Nov</option>
+                <option [ngValue]="11">Dec</option>
+
+            </select>
+        </label>
+
+        <a routerLink="/events/create" class="btn">+ Create Event</a>
+    </div>
+
+    <p *ngIf="loading()">Loading</p>
+    <p *ngIf="error()">{{error()}}</p>
+
+    <div class="grid" *ngIf="!loading() && !error()">
+    <article class="card" *ngFor="let e of (filterMonth===null ? events() : (events() | monthFilter:filterMonth))">
+      <header>
+        <h3>{{ e.title }}</h3>
+        <small>{{ e.date | date:'mediumDate' }} • {{ e.location }}</small>
+      </header>
+      <p class="desc">{{ e.description }}</p>
+      <footer>
+        <span *ngIf="e.price===0; else paid">Free</span>
+        <ng-template #paid>{{ e.price | currency:'INR':'symbol' }}</ng-template>
+        <span class="cap">{{ e.attendeesCount }}/{{ e.capacity }} going</span>
+      </footer>
+      <div class="actions">
+        <button (click)="select(e)">Quick View</button>
+        <a [routerLink]="['/events', e.id]">Open Page</a>
+      </div>
+    </article>
+  </div>
+
+  <!-- Parent->Child via @Input; Child->Parent via @Output -->
+  <app-event-detail
+    *ngIf="selectedEvent()"
+    [event]="selectedEvent()!"
+    >
+  </app-event-detail>
+  <!-- <app-event-detail
+    *ngIf="selectedEvent()"
+    [event]="selectedEvent()!"
+    (register)="handleRegister($event)">
+  </app-event-detail> -->
+</section>
