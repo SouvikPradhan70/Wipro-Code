@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KIIT\\Desktop\\Wipro Code\\Day-26\\Assignment-2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{618DBBD4-6827-478F-B009-7E62991702EB}|Assignment-2\\Assignment-2.csproj|c:\\users\\kiit\\desktop\\wipro code\\day-26\\assignment-2\\assignment-2\\itemstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{618DBBD4-6827-478F-B009-7E62991702EB}|Assignment-2\\Assignment-2.csproj|solutionrelative:assignment-2\\itemstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{618DBBD4-6827-478F-B009-7E62991702EB}|Assignment-2\\Assignment-2.csproj|c:\\users\\kiit\\desktop\\wipro code\\day-26\\assignment-2\\assignment-2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{618DBBD4-6827-478F-B009-7E62991702EB}|Assignment-2\\Assignment-2.csproj|solutionrelative:assignment-2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{618DBBD4-6827-478F-B009-7E62991702EB}|Assignment-2\\Assignment-2.csproj|c:\\users\\kiit\\desktop\\wipro code\\day-26\\assignment-2\\assignment-2\\pages\\items\\add.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{618DBBD4-6827-478F-B009-7E62991702EB}|Assignment-2\\Assignment-2.csproj|solutionrelative:assignment-2\\pages\\items\\add.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{618DBBD4-6827-478F-B009-7E62991702EB}|Assignment-2\\Assignment-2.csproj|c:\\users\\kiit\\desktop\\wipro code\\day-26\\assignment-2\\assignment-2\\pages\\items\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{618DBBD4-6827-478F-B009-7E62991702EB}|Assignment-2\\Assignment-2.csproj|solutionrelative:assignment-2\\pages\\items\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{618DBBD4-6827-478F-B009-7E62991702EB}|Assignment-2\\Assignment-2.csproj|c:\\users\\kiit\\desktop\\wipro code\\day-26\\assignment-2\\assignment-2\\pages\\items\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{618DBBD4-6827-478F-B009-7E62991702EB}|Assignment-2\\Assignment-2.csproj|solutionrelative:assignment-2\\pages\\items\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{618DBBD4-6827-478F-B009-7E62991702EB}|Assignment-2\\Assignment-2.csproj|c:\\users\\kiit\\desktop\\wipro code\\day-26\\assignment-2\\assignment-2\\pages\\items\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{618DBBD4-6827-478F-B009-7E62991702EB}|Assignment-2\\Assignment-2.csproj|solutionrelative:assignment-2\\pages\\items\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Add.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\Wipro Code\\Day-26\\Assignment-2\\Assignment-2\\Pages\\Items\\Add.cshtml.cs",
+              "RelativeDocumentMoniker": "Assignment-2\\Pages\\Items\\Add.cshtml.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\Wipro Code\\Day-26\\Assignment-2\\Assignment-2\\Pages\\Items\\Add.cshtml.cs",
+              "RelativeToolTip": "Assignment-2\\Pages\\Items\\Add.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T16:40:02.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\Wipro Code\\Day-26\\Assignment-2\\Assignment-2\\Pages\\Items\\Add.cshtml",
+              "RelativeDocumentMoniker": "Assignment-2\\Pages\\Items\\Add.cshtml",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\Wipro Code\\Day-26\\Assignment-2\\Assignment-2\\Pages\\Items\\Add.cshtml",
+              "RelativeToolTip": "Assignment-2\\Pages\\Items\\Add.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-18T16:39:55.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\Wipro Code\\Day-26\\Assignment-2\\Assignment-2\\Pages\\Items\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Assignment-2\\Pages\\Items\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\Wipro Code\\Day-26\\Assignment-2\\Assignment-2\\Pages\\Items\\Index.cshtml.cs",
+              "RelativeToolTip": "Assignment-2\\Pages\\Items\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T16:38:51.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\Wipro Code\\Day-26\\Assignment-2\\Assignment-2\\Pages\\Items\\Index.cshtml",
+              "RelativeDocumentMoniker": "Assignment-2\\Pages\\Items\\Index.cshtml",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\Wipro Code\\Day-26\\Assignment-2\\Assignment-2\\Pages\\Items\\Index.cshtml",
+              "RelativeToolTip": "Assignment-2\\Pages\\Items\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-18T16:38:43.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\Wipro Code\\Day-26\\Assignment-2\\Assignment-2\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment-2\\Program.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\Wipro Code\\Day-26\\Assignment-2\\Assignment-2\\Program.cs",
+              "RelativeToolTip": "Assignment-2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T16:37:29.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ItemStore.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\Wipro Code\\Day-26\\Assignment-2\\Assignment-2\\ItemStore.cs",
+              "RelativeDocumentMoniker": "Assignment-2\\ItemStore.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\Wipro Code\\Day-26\\Assignment-2\\Assignment-2\\ItemStore.cs",
+              "RelativeToolTip": "Assignment-2\\ItemStore.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T16:36:57.743Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

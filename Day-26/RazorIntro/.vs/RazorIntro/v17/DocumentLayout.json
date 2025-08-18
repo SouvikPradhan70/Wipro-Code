@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KIIT\\Desktop\\Wipro Code\\Day-26\\RazorIntro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1E47AE4-1C3D-4CB9-81AD-2B9B5BECFC5E}|RazorIntro\\RazorIntro.csproj|c:\\users\\kiit\\desktop\\wipro code\\day-26\\razorintro\\razorintro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1E47AE4-1C3D-4CB9-81AD-2B9B5BECFC5E}|RazorIntro\\RazorIntro.csproj|solutionrelative:razorintro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1E47AE4-1C3D-4CB9-81AD-2B9B5BECFC5E}|RazorIntro\\RazorIntro.csproj|c:\\users\\kiit\\desktop\\wipro code\\day-26\\razorintro\\razorintro\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A1E47AE4-1C3D-4CB9-81AD-2B9B5BECFC5E}|RazorIntro\\RazorIntro.csproj|solutionrelative:razorintro\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1E47AE4-1C3D-4CB9-81AD-2B9B5BECFC5E}|RazorIntro\\RazorIntro.csproj|c:\\users\\kiit\\desktop\\wipro code\\day-26\\razorintro\\razorintro\\pages\\time.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1E47AE4-1C3D-4CB9-81AD-2B9B5BECFC5E}|RazorIntro\\RazorIntro.csproj|solutionrelative:razorintro\\pages\\time.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1E47AE4-1C3D-4CB9-81AD-2B9B5BECFC5E}|RazorIntro\\RazorIntro.csproj|c:\\users\\kiit\\desktop\\wipro code\\day-26\\razorintro\\razorintro\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A1E47AE4-1C3D-4CB9-81AD-2B9B5BECFC5E}|RazorIntro\\RazorIntro.csproj|solutionrelative:razorintro\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1E47AE4-1C3D-4CB9-81AD-2B9B5BECFC5E}|RazorIntro\\RazorIntro.csproj|c:\\users\\kiit\\desktop\\wipro code\\day-26\\razorintro\\razorintro\\pages\\time.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A1E47AE4-1C3D-4CB9-81AD-2B9B5BECFC5E}|RazorIntro\\RazorIntro.csproj|solutionrelative:razorintro\\pages\\time.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1E47AE4-1C3D-4CB9-81AD-2B9B5BECFC5E}|RazorIntro\\RazorIntro.csproj|c:\\users\\kiit\\desktop\\wipro code\\day-26\\razorintro\\razorintro\\pages\\privacy.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1E47AE4-1C3D-4CB9-81AD-2B9B5BECFC5E}|RazorIntro\\RazorIntro.csproj|solutionrelative:razorintro\\pages\\privacy.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1E47AE4-1C3D-4CB9-81AD-2B9B5BECFC5E}|RazorIntro\\RazorIntro.csproj|c:\\users\\kiit\\desktop\\wipro code\\day-26\\razorintro\\razorintro\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A1E47AE4-1C3D-4CB9-81AD-2B9B5BECFC5E}|RazorIntro\\RazorIntro.csproj|solutionrelative:razorintro\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1E47AE4-1C3D-4CB9-81AD-2B9B5BECFC5E}|RazorIntro\\RazorIntro.csproj|c:\\users\\kiit\\desktop\\wipro code\\day-26\\razorintro\\razorintro\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1E47AE4-1C3D-4CB9-81AD-2B9B5BECFC5E}|RazorIntro\\RazorIntro.csproj|solutionrelative:razorintro\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\Wipro Code\\Day-26\\RazorIntro\\RazorIntro\\Program.cs",
+              "RelativeDocumentMoniker": "RazorIntro\\Program.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\Wipro Code\\Day-26\\RazorIntro\\RazorIntro\\Program.cs",
+              "RelativeToolTip": "RazorIntro\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T08:15:20.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\Wipro Code\\Day-26\\RazorIntro\\RazorIntro\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "RazorIntro\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\Wipro Code\\Day-26\\RazorIntro\\RazorIntro\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "RazorIntro\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-18T08:49:10.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Time.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\Wipro Code\\Day-26\\RazorIntro\\RazorIntro\\Pages\\Time.cshtml.cs",
+              "RelativeDocumentMoniker": "RazorIntro\\Pages\\Time.cshtml.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\Wipro Code\\Day-26\\RazorIntro\\RazorIntro\\Pages\\Time.cshtml.cs",
+              "RelativeToolTip": "RazorIntro\\Pages\\Time.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T08:41:55.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Time.cshtml",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\Wipro Code\\Day-26\\RazorIntro\\RazorIntro\\Pages\\Time.cshtml",
+              "RelativeDocumentMoniker": "RazorIntro\\Pages\\Time.cshtml",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\Wipro Code\\Day-26\\RazorIntro\\RazorIntro\\Pages\\Time.cshtml",
+              "RelativeToolTip": "RazorIntro\\Pages\\Time.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-18T08:41:07.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\Wipro Code\\Day-26\\RazorIntro\\RazorIntro\\Pages\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "RazorIntro\\Pages\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\Wipro Code\\Day-26\\RazorIntro\\RazorIntro\\Pages\\Privacy.cshtml",
+              "RelativeToolTip": "RazorIntro\\Pages\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-18T08:11:56.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Privacy.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\Wipro Code\\Day-26\\RazorIntro\\RazorIntro\\Pages\\Privacy.cshtml.cs",
+              "RelativeDocumentMoniker": "RazorIntro\\Pages\\Privacy.cshtml.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\Wipro Code\\Day-26\\RazorIntro\\RazorIntro\\Pages\\Privacy.cshtml.cs",
+              "RelativeToolTip": "RazorIntro\\Pages\\Privacy.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T08:21:19.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\Wipro Code\\Day-26\\RazorIntro\\RazorIntro\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "RazorIntro\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\Wipro Code\\Day-26\\RazorIntro\\RazorIntro\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "RazorIntro\\Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T08:09:36.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\Wipro Code\\Day-26\\RazorIntro\\RazorIntro\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "RazorIntro\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\Wipro Code\\Day-26\\RazorIntro\\RazorIntro\\Pages\\Index.cshtml",
+              "RelativeToolTip": "RazorIntro\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-18T08:06:00.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

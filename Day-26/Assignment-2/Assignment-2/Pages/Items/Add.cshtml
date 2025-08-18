@@ -1,0 +1,15 @@
+﻿@page
+@model Assignment_2.Pages.Items.AddModel
+@{
+    ViewData["Title"] = "Add Item";
+}
+
+<h1>Add Item</h1>
+
+<form method="post">
+    <label>Item name:</label>
+    <input asp-for="NewItem" />
+    <button type="submit">Add</button>
+</form>
+
+<p><a asp-page="/Items/Index">Back to list</a></p>

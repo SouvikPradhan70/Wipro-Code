@@ -1,0 +1,23 @@
+﻿@page
+@model Assignment_2.Pages.Items.IndexModel
+@{
+    ViewData["Title"] = "Items";
+}
+
+<h1>Items</h1>
+
+<p><a asp-page="/Items/Add">Add new item</a></p>
+
+@if (Model.Items.Count == 0)
+{
+    <p>No items yet.</p>
+}
+else
+{
+    <ul>
+        @foreach (var i in Model.Items)
+        {
+            <li>@i</li>
+        }
+    </ul>
+}
