@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\KIIT\\Desktop\\Wipro Code\\Day-27\\mvc_demo_1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5600F25B-387A-48E4-BCAE-332BBF41137F}|mvc_demo_1\\mvc_demo_1.csproj|c:\\users\\kiit\\desktop\\wipro code\\day-27\\mvc_demo_1\\mvc_demo_1\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5600F25B-387A-48E4-BCAE-332BBF41137F}|mvc_demo_1\\mvc_demo_1.csproj|solutionrelative:mvc_demo_1\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5600F25B-387A-48E4-BCAE-332BBF41137F}|mvc_demo_1\\mvc_demo_1.csproj|c:\\users\\kiit\\desktop\\wipro code\\day-27\\mvc_demo_1\\mvc_demo_1\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5600F25B-387A-48E4-BCAE-332BBF41137F}|mvc_demo_1\\mvc_demo_1.csproj|solutionrelative:mvc_demo_1\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,10 +17,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{5600F25B-387A-48E4-BCAE-332BBF41137F}|mvc_demo_1\\mvc_demo_1.csproj|c:\\users\\kiit\\desktop\\wipro code\\day-27\\mvc_demo_1\\mvc_demo_1\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5600F25B-387A-48E4-BCAE-332BBF41137F}|mvc_demo_1\\mvc_demo_1.csproj|solutionrelative:mvc_demo_1\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5600F25B-387A-48E4-BCAE-332BBF41137F}|mvc_demo_1\\mvc_demo_1.csproj|c:\\users\\kiit\\desktop\\wipro code\\day-27\\mvc_demo_1\\mvc_demo_1\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5600F25B-387A-48E4-BCAE-332BBF41137F}|mvc_demo_1\\mvc_demo_1.csproj|solutionrelative:mvc_demo_1\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,7 +34,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\Wipro Code\\Day-27\\mvc_demo_1\\mvc_demo_1\\Views\\Products\\Index.cshtml",
               "RelativeDocumentMoniker": "mvc_demo_1\\Views\\Products\\Index.cshtml",
@@ -46,7 +46,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\Wipro Code\\Day-27\\mvc_demo_1\\mvc_demo_1\\Views\\Products\\Create.cshtml",
               "RelativeDocumentMoniker": "mvc_demo_1\\Views\\Products\\Create.cshtml",
@@ -54,12 +54,11 @@
               "RelativeToolTip": "mvc_demo_1\\Views\\Products\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-19T07:29:14.167Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-19T07:29:14.167Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ProductsController.cs",
               "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\Wipro Code\\Day-27\\mvc_demo_1\\mvc_demo_1\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "mvc_demo_1\\Controllers\\ProductsController.cs",
@@ -72,7 +71,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\Wipro Code\\Day-27\\mvc_demo_1\\mvc_demo_1\\Models\\Product.cs",
               "RelativeDocumentMoniker": "mvc_demo_1\\Models\\Product.cs",
@@ -80,7 +79,8 @@
               "RelativeToolTip": "mvc_demo_1\\Models\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-19T04:23:17.674Z"
+              "WhenOpened": "2025-08-19T04:23:17.674Z",
+              "EditorCaption": ""
             }
           ]
         }

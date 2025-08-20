@@ -1,0 +1,68 @@
+﻿@page
+@model RazorAdvance.Pages.Products.IndexModel
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+<h1>Products</h1>
+
+<h3>Add Product</h3>
+<form method="post" asp-page-handler="Add">
+    <div>
+        <label asp-for="Input.Name"></label>
+        <input asp-for="Input.Name" />
+    </div>
+    <div>
+        <label asp-for="Input.Description"></label>
+        <textarea asp-for="Input.Description"></textarea>
+    </div>
+
+    <fieldset>
+        <legend>Categories (any 1–3)</legend>
+        <div>
+            <label>Category 1</label>
+            <input asp-for="Input.Categories[0].Name" />
+        </div>
+        <div>
+            <label>Category 2</label>
+            <input asp-for="Input.Categories[1].Name" />
+        </div>
+        <div>
+            <label>Category 3</label>
+            <input asp-for="Input.Categories[2].Name" />
+        </div>
+    </fieldset>
+
+    <button type="submit">Add</button>
+</form>
+
+<hr />
+
+<h3>All Products</h3>
+@if (Model.Products.Any())
+{
+    <ul>
+        @foreach (var p in Model.Products)
+        {
+            <li>
+                <partial name="_ProductSummary" model="p" />
+                <div>
+                    <a asp-page="/Products/Details" asp-route-id="@p.ProductID">Details</a>
+                    @if (p.Categories != null && p.Categories.Any())
+                    {
+                        <span>
+                            | Categories:
+                            @foreach (var c in p.Categories)
+                            {
+                                <a asp-page="/Products/Category" asp-route-categoryName="@c.Name">@c.Name</a>
+                                @(c != p.Categories.Last() ? ", " : "")
+                            }
+                        </span>
+                    }
+                </div>
+            </li>
+        }
+    </ul>
+}
+else
+{
+    <p>No products yet.</p>
+}

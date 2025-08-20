@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KIIT\\Desktop\\Wipro Code\\Day-27\\MvcBindingDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB05124A-F76A-42C4-8E3C-2F6066004076}|MvcBindingDemo\\MvcBindingDemo.csproj|c:\\users\\kiit\\desktop\\wipro code\\day-27\\mvcbindingdemo\\mvcbindingdemo\\views\\home\\result.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FB05124A-F76A-42C4-8E3C-2F6066004076}|MvcBindingDemo\\MvcBindingDemo.csproj|solutionrelative:mvcbindingdemo\\views\\home\\result.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB05124A-F76A-42C4-8E3C-2F6066004076}|MvcBindingDemo\\MvcBindingDemo.csproj|c:\\users\\kiit\\desktop\\wipro code\\day-27\\mvcbindingdemo\\mvcbindingdemo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FB05124A-F76A-42C4-8E3C-2F6066004076}|MvcBindingDemo\\MvcBindingDemo.csproj|solutionrelative:mvcbindingdemo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB05124A-F76A-42C4-8E3C-2F6066004076}|MvcBindingDemo\\MvcBindingDemo.csproj|c:\\users\\kiit\\desktop\\wipro code\\day-27\\mvcbindingdemo\\mvcbindingdemo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB05124A-F76A-42C4-8E3C-2F6066004076}|MvcBindingDemo\\MvcBindingDemo.csproj|solutionrelative:mvcbindingdemo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB05124A-F76A-42C4-8E3C-2F6066004076}|MvcBindingDemo\\MvcBindingDemo.csproj|c:\\users\\kiit\\desktop\\wipro code\\day-27\\mvcbindingdemo\\mvcbindingdemo\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB05124A-F76A-42C4-8E3C-2F6066004076}|MvcBindingDemo\\MvcBindingDemo.csproj|solutionrelative:mvcbindingdemo\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB05124A-F76A-42C4-8E3C-2F6066004076}|MvcBindingDemo\\MvcBindingDemo.csproj|c:\\users\\kiit\\desktop\\wipro code\\day-27\\mvcbindingdemo\\mvcbindingdemo\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB05124A-F76A-42C4-8E3C-2F6066004076}|MvcBindingDemo\\MvcBindingDemo.csproj|solutionrelative:mvcbindingdemo\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\Wipro Code\\Day-27\\MvcBindingDemo\\MvcBindingDemo\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MvcBindingDemo\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\Wipro Code\\Day-27\\MvcBindingDemo\\MvcBindingDemo\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MvcBindingDemo\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-20T14:00:59.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\Wipro Code\\Day-27\\MvcBindingDemo\\MvcBindingDemo\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MvcBindingDemo\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\Wipro Code\\Day-27\\MvcBindingDemo\\MvcBindingDemo\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MvcBindingDemo\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T14:00:39.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Result.cshtml",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\Wipro Code\\Day-27\\MvcBindingDemo\\MvcBindingDemo\\Views\\Home\\Result.cshtml",
+              "RelativeDocumentMoniker": "MvcBindingDemo\\Views\\Home\\Result.cshtml",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\Wipro Code\\Day-27\\MvcBindingDemo\\MvcBindingDemo\\Views\\Home\\Result.cshtml",
+              "RelativeToolTip": "MvcBindingDemo\\Views\\Home\\Result.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-20T13:58:21.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\Wipro Code\\Day-27\\MvcBindingDemo\\MvcBindingDemo\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "MvcBindingDemo\\Models\\Person.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\Wipro Code\\Day-27\\MvcBindingDemo\\MvcBindingDemo\\Models\\Person.cs",
+              "RelativeToolTip": "MvcBindingDemo\\Models\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T13:55:28.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Address.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\Wipro Code\\Day-27\\MvcBindingDemo\\MvcBindingDemo\\Models\\Address.cs",
+              "RelativeDocumentMoniker": "MvcBindingDemo\\Models\\Address.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\Wipro Code\\Day-27\\MvcBindingDemo\\MvcBindingDemo\\Models\\Address.cs",
+              "RelativeToolTip": "MvcBindingDemo\\Models\\Address.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T13:54:53.496Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

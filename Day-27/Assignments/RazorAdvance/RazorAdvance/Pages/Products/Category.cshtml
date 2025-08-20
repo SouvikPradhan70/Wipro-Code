@@ -1,0 +1,23 @@
+﻿@page "/Products/Category/{categoryName}"
+@model RazorAdvance.Pages.Products.CategoryModel
+
+<h2>Products in "@Model.CategoryName"</h2>
+
+@if (Model.Products.Any())
+{
+    <ul>
+        @foreach (var p in Model.Products)
+        {
+            <li>
+                <partial name="_ProductSummary" model="p" />
+                <a asp-page="/Products/Details" asp-route-id="@p.ProductID">Details</a>
+            </li>
+        }
+    </ul>
+}
+else
+{
+    <p>No products found.</p>
+}
+
+<a asp-page="/Products/Index">Back</a>

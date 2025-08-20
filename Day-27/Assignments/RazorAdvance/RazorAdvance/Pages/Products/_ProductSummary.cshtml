@@ -1,0 +1,9 @@
+﻿@model RazorAdvance.Models.Product
+<div style="padding:6px;border:1px solid #ddd;margin:6px 0;">
+    <strong>@Model.Name</strong><br />
+    <span>@Model.Description</span><br />
+    @if (Model.Categories?.Count > 0)
+    {
+        <small>Categories: @string.Join(", ", Model.Categories.Select(c => c.Name))</small>
+    }
+</div>

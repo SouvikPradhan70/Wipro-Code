@@ -1,0 +1,12 @@
+﻿@page "/Products/{id:int}"
+@model RazorAdvance.Pages.Products.DetailsModel
+
+<h2>@Model.Product?.Name</h2>
+<p>@Model.Product?.Description</p>
+
+@if (Model.Product?.Categories?.Count > 0)
+{
+    <p>Categories: @string.Join(", ", Model.Product.Categories.Select(c => c.Name))</p>
+}
+
+<a asp-page="/Products/Index">Back to list</a>

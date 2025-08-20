@@ -1,0 +1,10 @@
+﻿@model MvcBindingDemo.Models.Person
+
+<h2>Submitted Data</h2>
+<ul>
+    <li>Name: @Model.FirstName @Model.LastName</li>
+    <li>Age: @Model.Age</li>
+    <li>Address: @Model.Address.Street, @Model.Address.City - @Model.Address.ZipCode</li>
+</ul>
+
+<a asp-action="Index">Back</a>
