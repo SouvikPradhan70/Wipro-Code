@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KIIT\\Desktop\\Wipro Code\\Day-28\\Assignment\\RegistrationValidation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0483AF94-C7DA-4E9E-BEF1-826180FD610A}|RegistrationValidation\\RegistrationValidation.csproj|c:\\users\\kiit\\desktop\\wipro code\\day-28\\assignment\\registrationvalidation\\registrationvalidation\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0483AF94-C7DA-4E9E-BEF1-826180FD610A}|RegistrationValidation\\RegistrationValidation.csproj|solutionrelative:registrationvalidation\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0483AF94-C7DA-4E9E-BEF1-826180FD610A}|RegistrationValidation\\RegistrationValidation.csproj|c:\\users\\kiit\\desktop\\wipro code\\day-28\\assignment\\registrationvalidation\\registrationvalidation\\views\\register\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0483AF94-C7DA-4E9E-BEF1-826180FD610A}|RegistrationValidation\\RegistrationValidation.csproj|solutionrelative:registrationvalidation\\views\\register\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0483AF94-C7DA-4E9E-BEF1-826180FD610A}|RegistrationValidation\\RegistrationValidation.csproj|c:\\users\\kiit\\desktop\\wipro code\\day-28\\assignment\\registrationvalidation\\registrationvalidation\\views\\register\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0483AF94-C7DA-4E9E-BEF1-826180FD610A}|RegistrationValidation\\RegistrationValidation.csproj|solutionrelative:registrationvalidation\\views\\register\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0483AF94-C7DA-4E9E-BEF1-826180FD610A}|RegistrationValidation\\RegistrationValidation.csproj|c:\\users\\kiit\\desktop\\wipro code\\day-28\\assignment\\registrationvalidation\\registrationvalidation\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0483AF94-C7DA-4E9E-BEF1-826180FD610A}|RegistrationValidation\\RegistrationValidation.csproj|solutionrelative:registrationvalidation\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0483AF94-C7DA-4E9E-BEF1-826180FD610A}|RegistrationValidation\\RegistrationValidation.csproj|c:\\users\\kiit\\desktop\\wipro code\\day-28\\assignment\\registrationvalidation\\registrationvalidation\\models\\userregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0483AF94-C7DA-4E9E-BEF1-826180FD610A}|RegistrationValidation\\RegistrationValidation.csproj|solutionrelative:registrationvalidation\\models\\userregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\Wipro Code\\Day-28\\Assignment\\RegistrationValidation\\RegistrationValidation\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "RegistrationValidation\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\Wipro Code\\Day-28\\Assignment\\RegistrationValidation\\RegistrationValidation\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "RegistrationValidation\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-21T04:41:08.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Success.cshtml",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\Wipro Code\\Day-28\\Assignment\\RegistrationValidation\\RegistrationValidation\\Views\\Register\\Success.cshtml",
+              "RelativeDocumentMoniker": "RegistrationValidation\\Views\\Register\\Success.cshtml",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\Wipro Code\\Day-28\\Assignment\\RegistrationValidation\\RegistrationValidation\\Views\\Register\\Success.cshtml",
+              "RelativeToolTip": "RegistrationValidation\\Views\\Register\\Success.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-21T04:40:14.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\Wipro Code\\Day-28\\Assignment\\RegistrationValidation\\RegistrationValidation\\Views\\Register\\Register.cshtml",
+              "RelativeDocumentMoniker": "RegistrationValidation\\Views\\Register\\Register.cshtml",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\Wipro Code\\Day-28\\Assignment\\RegistrationValidation\\RegistrationValidation\\Views\\Register\\Register.cshtml",
+              "RelativeToolTip": "RegistrationValidation\\Views\\Register\\Register.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-21T04:39:21.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegisterController.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\Wipro Code\\Day-28\\Assignment\\RegistrationValidation\\RegistrationValidation\\Controllers\\RegisterController.cs",
+              "RelativeDocumentMoniker": "RegistrationValidation\\Controllers\\RegisterController.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\Wipro Code\\Day-28\\Assignment\\RegistrationValidation\\RegistrationValidation\\Controllers\\RegisterController.cs",
+              "RelativeToolTip": "RegistrationValidation\\Controllers\\RegisterController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T04:37:12.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\Wipro Code\\Day-28\\Assignment\\RegistrationValidation\\RegistrationValidation\\Models\\UserRegistration.cs",
+              "RelativeDocumentMoniker": "RegistrationValidation\\Models\\UserRegistration.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\Wipro Code\\Day-28\\Assignment\\RegistrationValidation\\RegistrationValidation\\Models\\UserRegistration.cs",
+              "RelativeToolTip": "RegistrationValidation\\Models\\UserRegistration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T04:35:38.04Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

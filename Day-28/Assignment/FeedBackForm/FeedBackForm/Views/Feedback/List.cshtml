@@ -1,0 +1,29 @@
+﻿@model IEnumerable<FeedBackForm.Models.Feedback>
+@{
+	ViewData["Title"] = "Feedback List";
+}
+<table class="table">
+	<thead>
+		<tr>
+			<th>Name</th>
+			<th>Email</th>
+			<th>Rating</th>
+			<th>Comment</th>
+
+		</tr>
+	</thead>
+	<tbody>
+		@foreach(var item in Model)
+		{
+			<tr>
+				<td>@item.Name</td>
+				<td>@item.Email</td>
+				<td>@item.Rating</td>
+				<td>@item.Comment</td>
+			</tr>
+		}
+	</tbody>
+
+</table>
+
+<a asp-action="Create">Create another Feedback</a>

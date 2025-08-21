@@ -1,0 +1,56 @@
+﻿@model FeedBackForm.Models.Feedback;
+@using FeedBackForm.Helpers
+
+@{
+	ViewData["Title"] = "Customer feedback form";
+}
+<h2>Customer Feedback Form</h2>
+<form asp-action="Create" method="post">
+	<div>
+		<label asp-for="Name"></label>
+		<input asp-for="Name" class="form-control" />
+		<span asp-validation-for="Name" class="text-danger"></span>
+	</div>
+
+	<!-- 🔹 Custom HTML Helper for styled input -->
+	<div>
+		<label>Custom Name Field</label>
+		@Html.StyledTextBox("CustomName", "Enter your name here...")
+	</div>
+
+	<div>
+		<label asp-for="Email"></label>
+		<input asp-for="Email" class="form-control"/>
+		<span asp-validation-for="Email" class="text-danger"></span>
+	</div>
+
+	<div>
+		<label asp-for="Rating"></label>
+		<select asp-for="Rating" class="form-control">
+			<option value="">--Select Rating--</option>
+			<option value="1">1-Bad</option>
+			<option value="2">2</option>
+			<option value="3">3-Average</option>
+			<option value="4">4</option>
+			<option value="5">5-Excelent</option>
+		</select>
+		<span asp-validation-for="Rating" class="text-danger"></span>
+
+		<!-- ⭐ Custom Star TagHelper (just for display) -->
+		<p>Visual Rating:</p>
+		<star-rating value="3" max="5"></star-rating>
+		<!-- Hidden input if you want to submit value with stars -->
+		<input type="hidden" asp-for="Rating" value="3" />
+	</div>
+
+	
+	<div>
+		<label asp-for="Comment"></label>
+		<input asp-for="Comment" class="form-control" />
+		<span asp-validation-for="Comment" class="text-danger"></span>
+	</div>
+
+	<button type="submit" class="btn btn-primary">Submit Feedback</button>
+</form>
+
+<a asp-action="List">View submitted feedback</a>
