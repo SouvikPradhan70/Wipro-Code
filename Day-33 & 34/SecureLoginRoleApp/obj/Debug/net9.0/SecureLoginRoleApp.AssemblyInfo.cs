@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SecureLoginRoleApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9e8439518ea43cb743555049f7c00b6905e95f1e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+889ba25bb12718e42315b269ed964be0bf8b71cd")]
 [assembly: System.Reflection.AssemblyProductAttribute("SecureLoginRoleApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SecureLoginRoleApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

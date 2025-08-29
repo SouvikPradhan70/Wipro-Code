@@ -1,0 +1,27 @@
+@model IEnumerable<ProductApp.Models.Product>
+
+<h2>Products List</h2>
+
+<!-- This is where products will be displayed -->
+<div id="productList">
+    @await Html.PartialAsync("_ProductList", Model)
+</div>
+
+<!-- Button to load products via AJAX -->
+<button id="loadBtn">Reload Products (AJAX)</button>
+
+@section Scripts {
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script>
+    // When button clicked
+    $("#loadBtn").click(function () {
+        $.ajax({
+            url: '/Products/GetAll', // Call controller action
+            type: 'GET',
+            success: function (data) {
+                $("#productList").html(data); // Replace product list with new data
+            }
+        });
+    });
+</script>
+}

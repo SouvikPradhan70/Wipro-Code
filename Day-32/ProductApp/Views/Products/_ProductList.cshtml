@@ -1,0 +1,9 @@
+@model IEnumerable<ProductApp.Models.Product>
+
+<!-- Loop through products -->
+@foreach (var p in Model)
+{
+    <div>
+        <b>@p.Name</b> - ₹@p.Price
+    </div>
+}

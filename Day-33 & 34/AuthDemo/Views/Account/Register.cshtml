@@ -1,0 +1,7 @@
+@model AuthDemo.Models.RegisterViewModel
+<form asp-action="Register" method="post">
+    <input asp-for="UserName" placeholder="Username" />
+    <input asp-for="Email" placeholder="Email" />
+    <input asp-for="Password" type="Password" placeholder="Password" />
+    <button type="submit">Register</button>
+</form>
