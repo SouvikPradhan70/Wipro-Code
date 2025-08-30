@@ -1,0 +1,20 @@
+@model IEnumerable<ProductManagementApp.Models.Product>
+<h2>Product List</h2>
+<p style="color:green">@TempData["Message"]</p>
+
+<table border="1">
+<tr><th>Name</th><th>Price</th><th>Actions</th></tr>
+@foreach(var item in Model)
+{
+    <tr>
+        <td>@item.Name</td>
+        <td>@item.Price</td>
+        <td>
+            <a href="/Product/EditProduct/@item.Id">Edit</a> |
+            <a href="/Product/Delete/@item.Id">Delete</a>
+        </td>
+    </tr>
+}
+</table>
+
+<a href="/Product/CreateProduct">Create New Product</a>

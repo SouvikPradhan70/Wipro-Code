@@ -1,0 +1,8 @@
+@model ProductManagementApp.Models.Product
+<h2>Edit Product</h2>
+<form method="post">
+    <input type="hidden" asp-for="Id" />
+    <input asp-for="Name" />
+    <input asp-for="Price" />
+    <button type="submit">Save</button>
+</form>
